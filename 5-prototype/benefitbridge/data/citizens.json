@@ -1,0 +1,4831 @@
+[
+  {
+    "id": "C-1001",
+    "full_name": "Nadia Silva",
+    "dob": "1975-06-17",
+    "preferred_language": "Arabic",
+    "region": "Northport",
+    "contact": {
+      "phone": "+00 555 4644 744",
+      "email": "nadia.silva@example.org"
+    },
+    "partner": null,
+    "children": [
+      {
+        "name": "Hamza Silva",
+        "dob": "2020-02-10"
+      }
+    ],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 42000,
+    "savings": 22000,
+    "tenure": "rent",
+    "rent_monthly": 850,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [
+      "CB"
+    ],
+    "consent_proactive_contact": true,
+    "record_updated": "2025-03-29"
+  },
+  {
+    "id": "C-1002",
+    "full_name": "Ahmed Ivanova",
+    "dob": "2001-09-04",
+    "preferred_language": "Spanish",
+    "region": "Eastvale",
+    "contact": {
+      "phone": "+00 555 2525 831",
+      "email": "ahmed.ivanova@example.org"
+    },
+    "partner": {
+      "name": "Pavel Ivanova",
+      "dob": "2005-02-03",
+      "status": "partnered",
+      "employment_status": "employed"
+    },
+    "children": [],
+    "employment_status": "unemployed",
+    "job_end_date": null,
+    "household_income_annual": 31000,
+    "savings": 8000,
+    "tenure": "social",
+    "rent_monthly": null,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [],
+    "consent_proactive_contact": true,
+    "record_updated": "2026-02-12"
+  },
+  {
+    "id": "C-1003",
+    "full_name": "Ravi Rossi",
+    "dob": "1975-09-04",
+    "preferred_language": "Arabic",
+    "region": "Westfield",
+    "contact": {
+      "phone": "+00 555 4128 106",
+      "email": "ravi.rossi@example.org"
+    },
+    "partner": null,
+    "children": [],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 42000,
+    "savings": 14000,
+    "tenure": "rent",
+    "rent_monthly": 950,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [],
+    "consent_proactive_contact": true,
+    "record_updated": "2024-09-12"
+  },
+  {
+    "id": "C-1004",
+    "full_name": "Joon Fischer",
+    "dob": "1979-06-21",
+    "preferred_language": "English",
+    "region": "Northport",
+    "contact": {
+      "phone": "+00 555 1292 633",
+      "email": "joon.fischer@example.org"
+    },
+    "partner": null,
+    "children": [
+      {
+        "name": "Samuel Fischer",
+        "dob": "2010-04-02"
+      },
+      {
+        "name": "Omar Fischer",
+        "dob": "2014-07-20"
+      },
+      {
+        "name": "Elena Fischer",
+        "dob": "2022-02-17"
+      }
+    ],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 55000,
+    "savings": 1200,
+    "tenure": "social",
+    "rent_monthly": null,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [],
+    "consent_proactive_contact": true,
+    "record_updated": "2026-07-17"
+  },
+  {
+    "id": "C-1005",
+    "full_name": "Tariq Kim",
+    "dob": "1964-01-27",
+    "preferred_language": "Polish",
+    "region": "Southbay",
+    "contact": {
+      "phone": "+00 555 3653 394",
+      "email": "tariq.kim@example.org"
+    },
+    "partner": null,
+    "children": [],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 22000,
+    "savings": null,
+    "tenure": "rent",
+    "rent_monthly": 1150,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [
+      "ESA"
+    ],
+    "consent_proactive_contact": true,
+    "record_updated": "2024-06-09"
+  },
+  {
+    "id": "C-1006",
+    "full_name": "Ingrid Yilmaz",
+    "dob": "1988-01-08",
+    "preferred_language": "Arabic",
+    "region": "Southbay",
+    "contact": {
+      "phone": "+00 555 7366 124",
+      "email": "ingrid.yilmaz@example.org"
+    },
+    "partner": null,
+    "children": [
+      {
+        "name": "Jack Yilmaz",
+        "dob": "2012-06-30"
+      },
+      {
+        "name": "Yuki Yilmaz",
+        "dob": "2009-09-04"
+      },
+      {
+        "name": "Kwame Yilmaz",
+        "dob": "2019-02-20"
+      }
+    ],
+    "employment_status": "unemployed",
+    "job_end_date": null,
+    "household_income_annual": null,
+    "savings": 1200,
+    "tenure": "rent",
+    "rent_monthly": 1150,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [],
+    "consent_proactive_contact": true,
+    "record_updated": "2025-06-18"
+  },
+  {
+    "id": "C-1007",
+    "full_name": "Ravi Hall",
+    "dob": "1965-05-03",
+    "preferred_language": "English",
+    "region": "Southbay",
+    "contact": {
+      "phone": "+00 555 5649 528",
+      "email": "ravi.hall@example.org"
+    },
+    "partner": {
+      "name": "Rosa Hall",
+      "dob": "1962-08-14",
+      "status": "partnered",
+      "employment_status": "employed"
+    },
+    "children": [],
+    "employment_status": "unemployed",
+    "job_end_date": null,
+    "household_income_annual": 18000,
+    "savings": 1200,
+    "tenure": "social",
+    "rent_monthly": null,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [],
+    "consent_proactive_contact": true,
+    "record_updated": "2024-12-12"
+  },
+  {
+    "id": "C-1008",
+    "full_name": "Anna Tanaka",
+    "dob": "1992-05-15",
+    "preferred_language": "English",
+    "region": "Eastvale",
+    "contact": {
+      "phone": "+00 555 5839 973",
+      "email": "anna.tanaka@example.org"
+    },
+    "partner": {
+      "name": "Hamza Tanaka",
+      "dob": "1989-08-01",
+      "status": "partnered",
+      "employment_status": "employed"
+    },
+    "children": [
+      {
+        "name": "Mateo Tanaka",
+        "dob": "2015-02-06"
+      }
+    ],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 22000,
+    "savings": 22000,
+    "tenure": "rent",
+    "rent_monthly": 1250,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [
+      "ESA",
+      "SCH"
+    ],
+    "consent_proactive_contact": true,
+    "record_updated": "2025-05-31"
+  },
+  {
+    "id": "C-1009",
+    "full_name": "Vera Tanaka",
+    "dob": "1962-02-26",
+    "preferred_language": "English",
+    "region": "Highmoor",
+    "contact": {
+      "phone": "+00 555 6523 989",
+      "email": "vera.tanaka@example.org"
+    },
+    "partner": {
+      "name": "Rosa Tanaka",
+      "dob": "1964-03-19",
+      "status": "partnered",
+      "employment_status": "employed"
+    },
+    "children": [],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 48000,
+    "savings": 1200,
+    "tenure": "own",
+    "rent_monthly": null,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [],
+    "consent_proactive_contact": true,
+    "record_updated": "2026-04-27"
+  },
+  {
+    "id": "C-1010",
+    "full_name": "Liam Torres",
+    "dob": "1998-06-10",
+    "preferred_language": "English",
+    "region": "Riverside",
+    "contact": {
+      "phone": "+00 555 2715 278",
+      "email": "liam.torres@example.org"
+    },
+    "partner": {
+      "name": "Mateo Torres",
+      "dob": "1996-09-22",
+      "status": "partnered",
+      "employment_status": "unemployed"
+    },
+    "children": [
+      {
+        "name": "Hana Torres",
+        "dob": "2024-08-15"
+      },
+      {
+        "name": "Pavel Torres",
+        "dob": "2025-12-28"
+      }
+    ],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 22000,
+    "savings": 22000,
+    "tenure": "rent",
+    "rent_monthly": 1400,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [
+      "CB"
+    ],
+    "consent_proactive_contact": true,
+    "record_updated": "2024-10-12"
+  },
+  {
+    "id": "C-1011",
+    "full_name": "Omar Moreau",
+    "dob": "1997-03-29",
+    "preferred_language": "English",
+    "region": "Highmoor",
+    "contact": {
+      "phone": "+00 555 3816 119",
+      "email": "omar.moreau@example.org"
+    },
+    "partner": null,
+    "children": [],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 22000,
+    "savings": null,
+    "tenure": "social",
+    "rent_monthly": null,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [
+      "ESA"
+    ],
+    "consent_proactive_contact": true,
+    "record_updated": "2025-09-08"
+  },
+  {
+    "id": "C-1012",
+    "full_name": "Pavel Chen",
+    "dob": "1957-01-27",
+    "preferred_language": "English",
+    "region": "Riverside",
+    "contact": {
+      "phone": "+00 555 5990 683",
+      "email": "pavel.chen@example.org"
+    },
+    "partner": {
+      "name": "Vera Chen",
+      "dob": "1958-09-18",
+      "status": "partnered",
+      "employment_status": "employed"
+    },
+    "children": [],
+    "employment_status": "retired",
+    "job_end_date": null,
+    "household_income_annual": 48000,
+    "savings": 3500,
+    "tenure": "rent",
+    "rent_monthly": 1250,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [],
+    "consent_proactive_contact": true,
+    "record_updated": "2025-11-19"
+  },
+  {
+    "id": "C-1013",
+    "full_name": "Chloe Rossi",
+    "dob": "1963-05-23",
+    "preferred_language": "Spanish",
+    "region": "Southbay",
+    "contact": {
+      "phone": "+00 555 5767 694",
+      "email": "chloe.rossi@example.org"
+    },
+    "partner": {
+      "name": "Ingrid Rossi",
+      "dob": "1962-05-17",
+      "status": "partnered",
+      "employment_status": "employed"
+    },
+    "children": [],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 48000,
+    "savings": 1200,
+    "tenure": "rent",
+    "rent_monthly": 1250,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [],
+    "consent_proactive_contact": true,
+    "record_updated": "2026-06-14"
+  },
+  {
+    "id": "C-1014",
+    "full_name": "Diego Torres",
+    "dob": "1966-04-17",
+    "preferred_language": "Polish",
+    "region": "Eastvale",
+    "contact": {
+      "phone": "+00 555 6749 341",
+      "email": "diego.torres@example.org"
+    },
+    "partner": null,
+    "children": [],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 26000,
+    "savings": 22000,
+    "tenure": "own",
+    "rent_monthly": null,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [
+      "ESA"
+    ],
+    "consent_proactive_contact": true,
+    "record_updated": "2025-09-04"
+  },
+  {
+    "id": "C-1015",
+    "full_name": "Felix Ali",
+    "dob": "1979-07-16",
+    "preferred_language": "English",
+    "region": "Highmoor",
+    "contact": {
+      "phone": "+00 555 6100 883",
+      "email": "felix.ali@example.org"
+    },
+    "partner": {
+      "name": "Fatima Ali",
+      "dob": "1982-01-23",
+      "status": "partnered",
+      "employment_status": "employed"
+    },
+    "children": [
+      {
+        "name": "Mei Ali",
+        "dob": "2011-05-26"
+      }
+    ],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 42000,
+    "savings": 8000,
+    "tenure": "own",
+    "rent_monthly": null,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [
+      "CB"
+    ],
+    "consent_proactive_contact": true,
+    "record_updated": "2024-08-22"
+  },
+  {
+    "id": "C-1016",
+    "full_name": "Tariq Rossi",
+    "dob": "1988-04-19",
+    "preferred_language": "English",
+    "region": "Westfield",
+    "contact": {
+      "phone": "+00 555 2280 853",
+      "email": "tariq.rossi@example.org"
+    },
+    "partner": {
+      "name": "Lucia Rossi",
+      "dob": "1991-02-11",
+      "status": "partnered",
+      "employment_status": "employed"
+    },
+    "children": [
+      {
+        "name": "Arjun Rossi",
+        "dob": "2010-02-22"
+      },
+      {
+        "name": "Grace Rossi",
+        "dob": "2025-03-14"
+      }
+    ],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 22000,
+    "savings": 8000,
+    "tenure": "rent",
+    "rent_monthly": 1250,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [
+      "CB",
+      "ESA"
+    ],
+    "consent_proactive_contact": true,
+    "record_updated": "2024-11-27"
+  },
+  {
+    "id": "C-1017",
+    "full_name": "Isabel Fischer",
+    "dob": "1966-01-30",
+    "preferred_language": "English",
+    "region": "Eastvale",
+    "contact": {
+      "phone": "+00 555 3921 380",
+      "email": "isabel.fischer@example.org"
+    },
+    "partner": {
+      "name": "Priya Fischer",
+      "dob": "1966-08-16",
+      "status": "partnered",
+      "employment_status": "employed"
+    },
+    "children": [],
+    "employment_status": "unemployed",
+    "job_end_date": null,
+    "household_income_annual": 48000,
+    "savings": 22000,
+    "tenure": "own",
+    "rent_monthly": null,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [],
+    "consent_proactive_contact": true,
+    "record_updated": "2026-04-24"
+  },
+  {
+    "id": "C-1018",
+    "full_name": "Kofi Santos",
+    "dob": "1976-01-31",
+    "preferred_language": "English",
+    "region": "Eastvale",
+    "contact": {
+      "phone": "+00 555 7722 870",
+      "email": "kofi.santos@example.org"
+    },
+    "partner": {
+      "name": "Maya Santos",
+      "dob": "1975-06-04",
+      "status": "partnered",
+      "employment_status": "unemployed"
+    },
+    "children": [
+      {
+        "name": "Jack Santos",
+        "dob": "2019-08-01"
+      }
+    ],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 42000,
+    "savings": 14000,
+    "tenure": "own",
+    "rent_monthly": null,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [
+      "CB"
+    ],
+    "consent_proactive_contact": true,
+    "record_updated": "2026-05-05"
+  },
+  {
+    "id": "C-1019",
+    "full_name": "Arjun Chen",
+    "dob": "2002-10-11",
+    "preferred_language": "English",
+    "region": "Southbay",
+    "contact": {
+      "phone": "+00 555 7887 113",
+      "email": "arjun.chen@example.org"
+    },
+    "partner": {
+      "name": "Kwame Chen",
+      "dob": "2004-12-24",
+      "status": "partnered",
+      "employment_status": "employed"
+    },
+    "children": [
+      {
+        "name": "Vera Chen",
+        "dob": "2009-07-15"
+      },
+      {
+        "name": "Aroha Chen",
+        "dob": "2017-08-21"
+      },
+      {
+        "name": "Mei Chen",
+        "dob": "2009-02-05"
+      }
+    ],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 22000,
+    "savings": 3500,
+    "tenure": "rent",
+    "rent_monthly": 1150,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [
+      "CB",
+      "HSB"
+    ],
+    "consent_proactive_contact": true,
+    "record_updated": "2025-04-19"
+  },
+  {
+    "id": "C-1020",
+    "full_name": "Mateo Santos",
+    "dob": "1965-04-18",
+    "preferred_language": "English",
+    "region": "Eastvale",
+    "contact": {
+      "phone": "+00 555 4907 603",
+      "email": "mateo.santos@example.org"
+    },
+    "partner": null,
+    "children": [],
+    "employment_status": "student",
+    "job_end_date": null,
+    "household_income_annual": 48000,
+    "savings": 8000,
+    "tenure": "rent",
+    "rent_monthly": 950,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [],
+    "consent_proactive_contact": true,
+    "record_updated": "2026-06-03"
+  },
+  {
+    "id": "C-1021",
+    "full_name": "Amara Nguyen",
+    "dob": "1981-09-22",
+    "preferred_language": "English",
+    "region": "Eastvale",
+    "contact": {
+      "phone": "+00 555 6088 973",
+      "email": "amara.nguyen@example.org"
+    },
+    "partner": null,
+    "children": [],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 18000,
+    "savings": null,
+    "tenure": "own",
+    "rent_monthly": null,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [],
+    "consent_proactive_contact": true,
+    "record_updated": "2026-07-21"
+  },
+  {
+    "id": "C-1022",
+    "full_name": "Liam Rossi",
+    "dob": "1958-02-14",
+    "preferred_language": "Arabic",
+    "region": "Highmoor",
+    "contact": {
+      "phone": "+00 555 1959 876",
+      "email": "liam.rossi@example.org"
+    },
+    "partner": null,
+    "children": [],
+    "employment_status": "retired",
+    "job_end_date": null,
+    "household_income_annual": 18000,
+    "savings": 8000,
+    "tenure": "own",
+    "rent_monthly": null,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [
+      "ESA"
+    ],
+    "consent_proactive_contact": true,
+    "record_updated": "2024-06-23"
+  },
+  {
+    "id": "C-1023",
+    "full_name": "Rosa Reid",
+    "dob": "1977-10-19",
+    "preferred_language": "English",
+    "region": "Westfield",
+    "contact": {
+      "phone": "+00 555 1586 656",
+      "email": "rosa.reid@example.org"
+    },
+    "partner": null,
+    "children": [
+      {
+        "name": "Priya Reid",
+        "dob": "2013-03-04"
+      },
+      {
+        "name": "Mateo Reid",
+        "dob": "2010-05-29"
+      },
+      {
+        "name": "Yuki Reid",
+        "dob": "2022-08-30"
+      }
+    ],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 95000,
+    "savings": 14000,
+    "tenure": "own",
+    "rent_monthly": null,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [
+      "CB"
+    ],
+    "consent_proactive_contact": true,
+    "record_updated": "2024-10-17"
+  },
+  {
+    "id": "C-1024",
+    "full_name": "Isabel Walker",
+    "dob": "1989-01-25",
+    "preferred_language": "Mandarin",
+    "region": "Northport",
+    "contact": {
+      "phone": "+00 555 4370 908",
+      "email": "isabel.walker@example.org"
+    },
+    "partner": {
+      "name": "Sofia Walker",
+      "dob": "1993-09-11",
+      "status": "partnered",
+      "employment_status": "employed"
+    },
+    "children": [
+      {
+        "name": "Mei Walker",
+        "dob": "2023-05-03"
+      },
+      {
+        "name": "Sofia Walker",
+        "dob": "2015-12-25"
+      },
+      {
+        "name": "Elena Walker",
+        "dob": "2021-05-03"
+      }
+    ],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 42000,
+    "savings": 8000,
+    "tenure": "own",
+    "rent_monthly": null,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [
+      "CB"
+    ],
+    "consent_proactive_contact": true,
+    "record_updated": "2024-08-17"
+  },
+  {
+    "id": "C-1025",
+    "full_name": "Nadia Garcia",
+    "dob": "1965-02-17",
+    "preferred_language": "Hindi",
+    "region": "Eastvale",
+    "contact": {
+      "phone": "+00 555 4495 103",
+      "email": "nadia.garcia@example.org"
+    },
+    "partner": {
+      "name": "Grace Garcia",
+      "dob": "1966-07-02",
+      "status": "partnered",
+      "employment_status": "employed"
+    },
+    "children": [],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": null,
+    "savings": 14000,
+    "tenure": "rent",
+    "rent_monthly": 950,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [],
+    "consent_proactive_contact": true,
+    "record_updated": "2024-11-23"
+  },
+  {
+    "id": "C-1026",
+    "full_name": "Sipho Dubois",
+    "dob": "1970-04-08",
+    "preferred_language": "Polish",
+    "region": "Highmoor",
+    "contact": {
+      "phone": "+00 555 1729 464",
+      "email": "sipho.dubois@example.org"
+    },
+    "partner": {
+      "name": "Daniel Dubois",
+      "dob": "1974-01-07",
+      "status": "partnered",
+      "employment_status": "employed"
+    },
+    "children": [],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 31000,
+    "savings": 22000,
+    "tenure": "social",
+    "rent_monthly": null,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [],
+    "consent_proactive_contact": true,
+    "record_updated": "2025-03-07"
+  },
+  {
+    "id": "C-1027",
+    "full_name": "Grace Ahmed",
+    "dob": "1985-08-30",
+    "preferred_language": "Arabic",
+    "region": "Highmoor",
+    "contact": {
+      "phone": "+00 555 1175 298",
+      "email": "grace.ahmed@example.org"
+    },
+    "partner": null,
+    "children": [
+      {
+        "name": "Maya Ahmed",
+        "dob": "2016-01-12"
+      },
+      {
+        "name": "Mei Ahmed",
+        "dob": "2025-10-17"
+      },
+      {
+        "name": "Marco Ahmed",
+        "dob": "2020-10-07"
+      }
+    ],
+    "employment_status": "student",
+    "job_end_date": null,
+    "household_income_annual": 18000,
+    "savings": 3500,
+    "tenure": "rent",
+    "rent_monthly": 1250,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [
+      "HSB",
+      "ESA",
+      "SCH"
+    ],
+    "consent_proactive_contact": true,
+    "record_updated": "2026-06-11"
+  },
+  {
+    "id": "C-1028",
+    "full_name": "Ibrahim Larsen",
+    "dob": "1995-03-23",
+    "preferred_language": "English",
+    "region": "Southbay",
+    "contact": {
+      "phone": "+00 555 2660 656",
+      "email": "ibrahim.larsen@example.org"
+    },
+    "partner": null,
+    "children": [
+      {
+        "name": "Aroha Larsen",
+        "dob": "2012-08-27"
+      }
+    ],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 78000,
+    "savings": 14000,
+    "tenure": "own",
+    "rent_monthly": null,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [
+      "CB"
+    ],
+    "consent_proactive_contact": true,
+    "record_updated": "2025-09-21"
+  },
+  {
+    "id": "C-1029",
+    "full_name": "Aroha Okafor",
+    "dob": "1974-01-17",
+    "preferred_language": "English",
+    "region": "Northport",
+    "contact": {
+      "phone": "+00 555 3732 575",
+      "email": "aroha.okafor@example.org"
+    },
+    "partner": null,
+    "children": [
+      {
+        "name": "Noah Okafor",
+        "dob": "2011-03-01"
+      }
+    ],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 22000,
+    "savings": null,
+    "tenure": "social",
+    "rent_monthly": null,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [
+      "CB"
+    ],
+    "consent_proactive_contact": true,
+    "record_updated": "2026-01-07"
+  },
+  {
+    "id": "C-1030",
+    "full_name": "Noah Singh",
+    "dob": "1956-01-04",
+    "preferred_language": "Spanish",
+    "region": "Northport",
+    "contact": {
+      "phone": "+00 555 8832 202",
+      "email": "noah.singh@example.org"
+    },
+    "partner": null,
+    "children": [],
+    "employment_status": "retired",
+    "job_end_date": null,
+    "household_income_annual": 18000,
+    "savings": 8000,
+    "tenure": "own",
+    "rent_monthly": null,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [
+      "ESA"
+    ],
+    "consent_proactive_contact": true,
+    "record_updated": "2024-12-02"
+  },
+  {
+    "id": "C-1031",
+    "full_name": "Grace Petrov",
+    "dob": "2003-09-12",
+    "preferred_language": "English",
+    "region": "Southbay",
+    "contact": {
+      "phone": "+00 555 8751 219",
+      "email": "grace.petrov@example.org"
+    },
+    "partner": {
+      "name": "Noah Petrov",
+      "dob": "2006-07-31",
+      "status": "partnered",
+      "employment_status": "unemployed"
+    },
+    "children": [
+      {
+        "name": "Yuki Petrov",
+        "dob": "2015-04-23"
+      },
+      {
+        "name": "Samuel Petrov",
+        "dob": "2009-01-21"
+      }
+    ],
+    "employment_status": "unemployed",
+    "job_end_date": null,
+    "household_income_annual": 95000,
+    "savings": 22000,
+    "tenure": "rent",
+    "rent_monthly": 850,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [
+      "CB"
+    ],
+    "consent_proactive_contact": true,
+    "record_updated": "2024-08-22"
+  },
+  {
+    "id": "C-1032",
+    "full_name": "Minh Lopez",
+    "dob": "1995-05-04",
+    "preferred_language": "Spanish",
+    "region": "Eastvale",
+    "contact": {
+      "phone": "+00 555 8271 495",
+      "email": "minh.lopez@example.org"
+    },
+    "partner": {
+      "name": "Diego Lopez",
+      "dob": "1997-04-27",
+      "status": "partnered",
+      "employment_status": "employed"
+    },
+    "children": [],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 95000,
+    "savings": 1200,
+    "tenure": "own",
+    "rent_monthly": null,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [],
+    "consent_proactive_contact": true,
+    "record_updated": "2025-03-15"
+  },
+  {
+    "id": "C-1033",
+    "full_name": "Kofi Kowalski",
+    "dob": "1971-01-29",
+    "preferred_language": "Arabic",
+    "region": "Westfield",
+    "contact": {
+      "phone": "+00 555 4624 286",
+      "email": "kofi.kowalski@example.org"
+    },
+    "partner": {
+      "name": "Tomasz Kowalski",
+      "dob": "1973-04-08",
+      "status": "partnered",
+      "employment_status": "employed"
+    },
+    "children": [],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 22000,
+    "savings": null,
+    "tenure": "own",
+    "rent_monthly": null,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [
+      "ESA"
+    ],
+    "consent_proactive_contact": true,
+    "record_updated": "2024-09-11"
+  },
+  {
+    "id": "C-1034",
+    "full_name": "Diego Moreau",
+    "dob": "1996-10-10",
+    "preferred_language": "Polish",
+    "region": "Riverside",
+    "contact": {
+      "phone": "+00 555 2850 197",
+      "email": "diego.moreau@example.org"
+    },
+    "partner": {
+      "name": "Rosa Moreau",
+      "dob": "1995-04-13",
+      "status": "partnered",
+      "employment_status": "employed"
+    },
+    "children": [
+      {
+        "name": "Sofia Moreau",
+        "dob": "2025-02-20"
+      },
+      {
+        "name": "Clara Moreau",
+        "dob": "2011-05-05"
+      },
+      {
+        "name": "Maya Moreau",
+        "dob": "2010-01-30"
+      }
+    ],
+    "employment_status": "student",
+    "job_end_date": null,
+    "household_income_annual": 95000,
+    "savings": 14000,
+    "tenure": "rent",
+    "rent_monthly": 1250,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [
+      "CB"
+    ],
+    "consent_proactive_contact": true,
+    "record_updated": "2024-11-17"
+  },
+  {
+    "id": "C-1035",
+    "full_name": "Fatima Okafor",
+    "dob": "1959-02-10",
+    "preferred_language": "Spanish",
+    "region": "Riverside",
+    "contact": {
+      "phone": "+00 555 2774 980",
+      "email": "fatima.okafor@example.org"
+    },
+    "partner": {
+      "name": "Kofi Okafor",
+      "dob": "1960-03-14",
+      "status": "partnered",
+      "employment_status": "employed"
+    },
+    "children": [],
+    "employment_status": "retired",
+    "job_end_date": null,
+    "household_income_annual": 42000,
+    "savings": 1200,
+    "tenure": "own",
+    "rent_monthly": null,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [
+      "AGP",
+      "ESA"
+    ],
+    "consent_proactive_contact": true,
+    "record_updated": "2024-10-27"
+  },
+  {
+    "id": "C-1036",
+    "full_name": "Joon Haddad",
+    "dob": "1956-04-03",
+    "preferred_language": "English",
+    "region": "Highmoor",
+    "contact": {
+      "phone": "+00 555 6206 861",
+      "email": "joon.haddad@example.org"
+    },
+    "partner": {
+      "name": "Rosa Haddad",
+      "dob": "1956-08-29",
+      "status": "partnered",
+      "employment_status": "employed"
+    },
+    "children": [],
+    "employment_status": "retired",
+    "job_end_date": null,
+    "household_income_annual": 48000,
+    "savings": 3500,
+    "tenure": "rent",
+    "rent_monthly": 950,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [],
+    "consent_proactive_contact": true,
+    "record_updated": "2026-09-08"
+  },
+  {
+    "id": "C-1037",
+    "full_name": "Chloe Dubois",
+    "dob": "1979-07-26",
+    "preferred_language": "English",
+    "region": "Riverside",
+    "contact": {
+      "phone": "+00 555 8330 530",
+      "email": "chloe.dubois@example.org"
+    },
+    "partner": null,
+    "children": [
+      {
+        "name": "Mei Dubois",
+        "dob": "2023-05-08"
+      },
+      {
+        "name": "Hana Dubois",
+        "dob": "2015-10-02"
+      },
+      {
+        "name": "Amara Dubois",
+        "dob": "2016-01-10"
+      }
+    ],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": null,
+    "savings": 22000,
+    "tenure": "social",
+    "rent_monthly": null,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [],
+    "consent_proactive_contact": true,
+    "record_updated": "2026-04-19"
+  },
+  {
+    "id": "C-1038",
+    "full_name": "Lukas Lopez",
+    "dob": "1977-01-02",
+    "preferred_language": "Hindi",
+    "region": "Northport",
+    "contact": {
+      "phone": "+00 555 7379 472",
+      "email": "lukas.lopez@example.org"
+    },
+    "partner": {
+      "name": "Pavel Lopez",
+      "dob": "1977-10-15",
+      "status": "partnered",
+      "employment_status": "unemployed"
+    },
+    "children": [],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 78000,
+    "savings": 1200,
+    "tenure": "own",
+    "rent_monthly": null,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [],
+    "consent_proactive_contact": true,
+    "record_updated": "2025-07-20"
+  },
+  {
+    "id": "C-1039",
+    "full_name": "Elena Okafor",
+    "dob": "1976-06-06",
+    "preferred_language": "Polish",
+    "region": "Riverside",
+    "contact": {
+      "phone": "+00 555 1701 155",
+      "email": "elena.okafor@example.org"
+    },
+    "partner": {
+      "name": "Sipho Okafor",
+      "dob": "1972-09-16",
+      "status": "partnered",
+      "employment_status": "employed"
+    },
+    "children": [
+      {
+        "name": "Leila Okafor",
+        "dob": "2014-10-18"
+      },
+      {
+        "name": "Ahmed Okafor",
+        "dob": "2019-03-15"
+      },
+      {
+        "name": "Isabel Okafor",
+        "dob": "2014-05-15"
+      }
+    ],
+    "employment_status": "unemployed",
+    "job_end_date": null,
+    "household_income_annual": 22000,
+    "savings": null,
+    "tenure": "social",
+    "rent_monthly": null,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [
+      "CB",
+      "ESA"
+    ],
+    "consent_proactive_contact": true,
+    "record_updated": "2025-10-25"
+  },
+  {
+    "id": "C-1040",
+    "full_name": "Kofi Okafor",
+    "dob": "1977-02-22",
+    "preferred_language": "Vietnamese",
+    "region": "Westfield",
+    "contact": {
+      "phone": "+00 555 7453 301",
+      "email": "kofi.okafor@example.org"
+    },
+    "partner": null,
+    "children": [
+      {
+        "name": "Yuki Okafor",
+        "dob": "2014-05-28"
+      }
+    ],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 64000,
+    "savings": 8000,
+    "tenure": "rent",
+    "rent_monthly": 1150,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [],
+    "consent_proactive_contact": true,
+    "record_updated": "2024-06-16"
+  },
+  {
+    "id": "C-1041",
+    "full_name": "Mei Fischer",
+    "dob": "1973-03-25",
+    "preferred_language": "English",
+    "region": "Eastvale",
+    "contact": {
+      "phone": "+00 555 7351 562",
+      "email": "mei.fischer@example.org"
+    },
+    "partner": null,
+    "children": [],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 36000,
+    "savings": null,
+    "tenure": "own",
+    "rent_monthly": null,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [],
+    "consent_proactive_contact": true,
+    "record_updated": "2024-12-15"
+  },
+  {
+    "id": "C-1042",
+    "full_name": "Lukas Moreau",
+    "dob": "1986-02-28",
+    "preferred_language": "English",
+    "region": "Westfield",
+    "contact": {
+      "phone": "+00 555 4558 668",
+      "email": "lukas.moreau@example.org"
+    },
+    "partner": null,
+    "children": [
+      {
+        "name": "Omar Moreau",
+        "dob": "2009-08-18"
+      }
+    ],
+    "employment_status": "student",
+    "job_end_date": null,
+    "household_income_annual": 36000,
+    "savings": null,
+    "tenure": "own",
+    "rent_monthly": null,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [],
+    "consent_proactive_contact": true,
+    "record_updated": "2024-07-05"
+  },
+  {
+    "id": "C-1043",
+    "full_name": "Anna Costa",
+    "dob": "1960-02-26",
+    "preferred_language": "English",
+    "region": "Highmoor",
+    "contact": {
+      "phone": "+00 555 2931 974",
+      "email": "anna.costa@example.org"
+    },
+    "partner": null,
+    "children": [],
+    "employment_status": "retired",
+    "job_end_date": null,
+    "household_income_annual": 95000,
+    "savings": 14000,
+    "tenure": "social",
+    "rent_monthly": null,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [],
+    "consent_proactive_contact": true,
+    "record_updated": "2026-03-17"
+  },
+  {
+    "id": "C-1044",
+    "full_name": "Grace Novak",
+    "dob": "2004-09-12",
+    "preferred_language": "Arabic",
+    "region": "Riverside",
+    "contact": {
+      "phone": "+00 555 1428 222",
+      "email": "grace.novak@example.org"
+    },
+    "partner": {
+      "name": "Hana Novak",
+      "dob": "2000-08-21",
+      "status": "partnered",
+      "employment_status": "employed"
+    },
+    "children": [
+      {
+        "name": "Grace Novak",
+        "dob": "2022-06-23"
+      },
+      {
+        "name": "Daniel Novak",
+        "dob": "2025-07-14"
+      }
+    ],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 95000,
+    "savings": 14000,
+    "tenure": "rent",
+    "rent_monthly": 1400,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [
+      "CB"
+    ],
+    "consent_proactive_contact": true,
+    "record_updated": "2025-07-26"
+  },
+  {
+    "id": "C-1045",
+    "full_name": "Sofia Kim",
+    "dob": "2002-04-18",
+    "preferred_language": "English",
+    "region": "Southbay",
+    "contact": {
+      "phone": "+00 555 1812 720",
+      "email": "sofia.kim@example.org"
+    },
+    "partner": {
+      "name": "Hana Kim",
+      "dob": "2002-07-11",
+      "status": "partnered",
+      "employment_status": "employed"
+    },
+    "children": [
+      {
+        "name": "Tariq Kim",
+        "dob": "2023-06-08"
+      }
+    ],
+    "employment_status": "unemployed",
+    "job_end_date": null,
+    "household_income_annual": 26000,
+    "savings": 22000,
+    "tenure": "social",
+    "rent_monthly": null,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [
+      "ESA"
+    ],
+    "consent_proactive_contact": true,
+    "record_updated": "2026-03-17"
+  },
+  {
+    "id": "C-1046",
+    "full_name": "Liam Haddad",
+    "dob": "1972-03-29",
+    "preferred_language": "English",
+    "region": "Southbay",
+    "contact": {
+      "phone": "+00 555 4076 519",
+      "email": "liam.haddad@example.org"
+    },
+    "partner": {
+      "name": "Daniel Haddad",
+      "dob": "1970-05-11",
+      "status": "partnered",
+      "employment_status": "employed"
+    },
+    "children": [
+      {
+        "name": "Nadia Haddad",
+        "dob": "2011-06-01"
+      }
+    ],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 31000,
+    "savings": 8000,
+    "tenure": "own",
+    "rent_monthly": null,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [
+      "CB",
+      "SCH"
+    ],
+    "consent_proactive_contact": true,
+    "record_updated": "2025-07-22"
+  },
+  {
+    "id": "C-1047",
+    "full_name": "Mei Mbeki",
+    "dob": "1998-01-20",
+    "preferred_language": "English",
+    "region": "Northport",
+    "contact": {
+      "phone": "+00 555 1021 886",
+      "email": "mei.mbeki@example.org"
+    },
+    "partner": null,
+    "children": [
+      {
+        "name": "Daniel Mbeki",
+        "dob": "2018-01-28"
+      }
+    ],
+    "employment_status": "student",
+    "job_end_date": null,
+    "household_income_annual": 55000,
+    "savings": 14000,
+    "tenure": "rent",
+    "rent_monthly": 1250,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [
+      "CB"
+    ],
+    "consent_proactive_contact": true,
+    "record_updated": "2026-06-27"
+  },
+  {
+    "id": "C-1048",
+    "full_name": "Sipho Larsen",
+    "dob": "1984-09-29",
+    "preferred_language": "English",
+    "region": "Westfield",
+    "contact": {
+      "phone": "+00 555 1664 658",
+      "email": "sipho.larsen@example.org"
+    },
+    "partner": {
+      "name": "Diego Larsen",
+      "dob": "1981-07-07",
+      "status": "partnered",
+      "employment_status": "employed"
+    },
+    "children": [
+      {
+        "name": "Lucia Larsen",
+        "dob": "2016-01-31"
+      },
+      {
+        "name": "Ingrid Larsen",
+        "dob": "2013-01-12"
+      },
+      {
+        "name": "Aroha Larsen",
+        "dob": "2014-06-23"
+      }
+    ],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 64000,
+    "savings": 3500,
+    "tenure": "rent",
+    "rent_monthly": 850,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [],
+    "consent_proactive_contact": true,
+    "record_updated": "2024-09-16"
+  },
+  {
+    "id": "C-1049",
+    "full_name": "Jack Haddad",
+    "dob": "2003-07-24",
+    "preferred_language": "English",
+    "region": "Northport",
+    "contact": {
+      "phone": "+00 555 3902 619",
+      "email": "jack.haddad@example.org"
+    },
+    "partner": {
+      "name": "Ingrid Haddad",
+      "dob": "2001-05-09",
+      "status": "partnered",
+      "employment_status": "employed"
+    },
+    "children": [
+      {
+        "name": "Isabel Haddad",
+        "dob": "2023-01-15"
+      },
+      {
+        "name": "Tariq Haddad",
+        "dob": "2020-12-28"
+      },
+      {
+        "name": "Ahmed Haddad",
+        "dob": "2010-07-11"
+      }
+    ],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 18000,
+    "savings": 8000,
+    "tenure": "social",
+    "rent_monthly": null,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [
+      "SCH"
+    ],
+    "consent_proactive_contact": true,
+    "record_updated": "2024-07-08"
+  },
+  {
+    "id": "C-1050",
+    "full_name": "Rosa Lopez",
+    "dob": "1986-05-05",
+    "preferred_language": "English",
+    "region": "Westfield",
+    "contact": {
+      "phone": "+00 555 1264 769",
+      "email": "rosa.lopez@example.org"
+    },
+    "partner": null,
+    "children": [
+      {
+        "name": "Maya Lopez",
+        "dob": "2022-05-12"
+      },
+      {
+        "name": "Mateo Lopez",
+        "dob": "2020-08-29"
+      }
+    ],
+    "employment_status": "student",
+    "job_end_date": null,
+    "household_income_annual": null,
+    "savings": 22000,
+    "tenure": "rent",
+    "rent_monthly": 1250,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [
+      "CB"
+    ],
+    "consent_proactive_contact": true,
+    "record_updated": "2026-01-17"
+  },
+  {
+    "id": "C-1051",
+    "full_name": "Yuki Novak",
+    "dob": "1986-06-21",
+    "preferred_language": "English",
+    "region": "Highmoor",
+    "contact": {
+      "phone": "+00 555 1400 276",
+      "email": "yuki.novak@example.org"
+    },
+    "partner": {
+      "name": "Mateo Novak",
+      "dob": "1987-03-04",
+      "status": "partnered",
+      "employment_status": "employed"
+    },
+    "children": [
+      {
+        "name": "Anna Novak",
+        "dob": "2010-01-07"
+      },
+      {
+        "name": "Vera Novak",
+        "dob": "2017-08-22"
+      },
+      {
+        "name": "Chloe Novak",
+        "dob": "2021-10-11"
+      }
+    ],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 36000,
+    "savings": 3500,
+    "tenure": "social",
+    "rent_monthly": null,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [
+      "CB"
+    ],
+    "consent_proactive_contact": true,
+    "record_updated": "2024-12-04"
+  },
+  {
+    "id": "C-1052",
+    "full_name": "Hamza Garcia",
+    "dob": "1983-01-05",
+    "preferred_language": "Hindi",
+    "region": "Eastvale",
+    "contact": {
+      "phone": "+00 555 7677 748",
+      "email": "hamza.garcia@example.org"
+    },
+    "partner": {
+      "name": "Amara Garcia",
+      "dob": "1981-12-29",
+      "status": "partnered",
+      "employment_status": "employed"
+    },
+    "children": [],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 36000,
+    "savings": 22000,
+    "tenure": "rent",
+    "rent_monthly": 850,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [],
+    "consent_proactive_contact": true,
+    "record_updated": "2024-11-01"
+  },
+  {
+    "id": "C-1053",
+    "full_name": "Anna Ivanova",
+    "dob": "1969-07-02",
+    "preferred_language": "English",
+    "region": "Northport",
+    "contact": {
+      "phone": "+00 555 9506 204",
+      "email": "anna.ivanova@example.org"
+    },
+    "partner": null,
+    "children": [],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 55000,
+    "savings": 8000,
+    "tenure": "own",
+    "rent_monthly": null,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [],
+    "consent_proactive_contact": true,
+    "record_updated": "2026-04-09"
+  },
+  {
+    "id": "C-1054",
+    "full_name": "Priya Petrov",
+    "dob": "1995-10-03",
+    "preferred_language": "Arabic",
+    "region": "Westfield",
+    "contact": {
+      "phone": "+00 555 2868 428",
+      "email": "priya.petrov@example.org"
+    },
+    "partner": null,
+    "children": [],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 64000,
+    "savings": null,
+    "tenure": "rent",
+    "rent_monthly": 850,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [],
+    "consent_proactive_contact": true,
+    "record_updated": "2025-03-03"
+  },
+  {
+    "id": "C-1055",
+    "full_name": "Joon Rossi",
+    "dob": "1958-07-02",
+    "preferred_language": "English",
+    "region": "Northport",
+    "contact": {
+      "phone": "+00 555 5245 868",
+      "email": "joon.rossi@example.org"
+    },
+    "partner": {
+      "name": "Esther Rossi",
+      "dob": "1957-09-13",
+      "status": "partnered",
+      "employment_status": "employed"
+    },
+    "children": [],
+    "employment_status": "retired",
+    "job_end_date": null,
+    "household_income_annual": null,
+    "savings": 14000,
+    "tenure": "own",
+    "rent_monthly": null,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [],
+    "consent_proactive_contact": true,
+    "record_updated": "2024-11-05"
+  },
+  {
+    "id": "C-1056",
+    "full_name": "Kwame Fischer",
+    "dob": "1976-01-21",
+    "preferred_language": "Vietnamese",
+    "region": "Eastvale",
+    "contact": {
+      "phone": "+00 555 2506 662",
+      "email": "kwame.fischer@example.org"
+    },
+    "partner": {
+      "name": "Lukas Fischer",
+      "dob": "1976-09-25",
+      "status": "partnered",
+      "employment_status": "employed"
+    },
+    "children": [],
+    "employment_status": "student",
+    "job_end_date": null,
+    "household_income_annual": 36000,
+    "savings": 22000,
+    "tenure": "social",
+    "rent_monthly": null,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [],
+    "consent_proactive_contact": true,
+    "record_updated": "2024-09-13"
+  },
+  {
+    "id": "C-1057",
+    "full_name": "Ravi Dubois",
+    "dob": "1989-01-28",
+    "preferred_language": "Polish",
+    "region": "Highmoor",
+    "contact": {
+      "phone": "+00 555 1071 799",
+      "email": "ravi.dubois@example.org"
+    },
+    "partner": {
+      "name": "Daniel Dubois",
+      "dob": "1993-10-14",
+      "status": "partnered",
+      "employment_status": "unemployed"
+    },
+    "children": [
+      {
+        "name": "Isabel Dubois",
+        "dob": "2014-05-20"
+      }
+    ],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 42000,
+    "savings": 22000,
+    "tenure": "rent",
+    "rent_monthly": 1250,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [
+      "CB"
+    ],
+    "consent_proactive_contact": true,
+    "record_updated": "2026-01-23"
+  },
+  {
+    "id": "C-1058",
+    "full_name": "Daniel Ahmed",
+    "dob": "1994-01-06",
+    "preferred_language": "English",
+    "region": "Riverside",
+    "contact": {
+      "phone": "+00 555 7565 935",
+      "email": "daniel.ahmed@example.org"
+    },
+    "partner": {
+      "name": "Amara Ahmed",
+      "dob": "1992-04-19",
+      "status": "partnered",
+      "employment_status": "unemployed"
+    },
+    "children": [
+      {
+        "name": "Samuel Ahmed",
+        "dob": "2022-09-25"
+      }
+    ],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 78000,
+    "savings": null,
+    "tenure": "rent",
+    "rent_monthly": 1150,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [],
+    "consent_proactive_contact": true,
+    "record_updated": "2024-09-08"
+  },
+  {
+    "id": "C-1059",
+    "full_name": "Sipho Santos",
+    "dob": "1958-06-05",
+    "preferred_language": "Polish",
+    "region": "Eastvale",
+    "contact": {
+      "phone": "+00 555 3158 734",
+      "email": "sipho.santos@example.org"
+    },
+    "partner": null,
+    "children": [],
+    "employment_status": "retired",
+    "job_end_date": null,
+    "household_income_annual": 31000,
+    "savings": null,
+    "tenure": "social",
+    "rent_monthly": null,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [],
+    "consent_proactive_contact": true,
+    "record_updated": "2026-06-23"
+  },
+  {
+    "id": "C-1060",
+    "full_name": "Maya Singh",
+    "dob": "1975-01-24",
+    "preferred_language": "Hindi",
+    "region": "Northport",
+    "contact": {
+      "phone": "+00 555 4984 870",
+      "email": "maya.singh@example.org"
+    },
+    "partner": {
+      "name": "Kwame Singh",
+      "dob": "1972-02-06",
+      "status": "partnered",
+      "employment_status": "unemployed"
+    },
+    "children": [
+      {
+        "name": "Zainab Singh",
+        "dob": "2020-07-05"
+      }
+    ],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 78000,
+    "savings": 8000,
+    "tenure": "own",
+    "rent_monthly": null,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [],
+    "consent_proactive_contact": true,
+    "record_updated": "2026-05-29"
+  },
+  {
+    "id": "C-1061",
+    "full_name": "Liam Lopez",
+    "dob": "1986-03-28",
+    "preferred_language": "Spanish",
+    "region": "Westfield",
+    "contact": {
+      "phone": "+00 555 3328 202",
+      "email": "liam.lopez@example.org"
+    },
+    "partner": null,
+    "children": [
+      {
+        "name": "Ravi Lopez",
+        "dob": "2013-03-23"
+      },
+      {
+        "name": "Ingrid Lopez",
+        "dob": "2013-01-08"
+      },
+      {
+        "name": "Hamza Lopez",
+        "dob": "2009-08-18"
+      }
+    ],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 48000,
+    "savings": 8000,
+    "tenure": "own",
+    "rent_monthly": null,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [
+      "CB"
+    ],
+    "consent_proactive_contact": true,
+    "record_updated": "2025-08-31"
+  },
+  {
+    "id": "C-1062",
+    "full_name": "Grace Garcia",
+    "dob": "1970-02-23",
+    "preferred_language": "Spanish",
+    "region": "Eastvale",
+    "contact": {
+      "phone": "+00 555 7246 987",
+      "email": "grace.garcia@example.org"
+    },
+    "partner": {
+      "name": "Marco Garcia",
+      "dob": "1968-06-06",
+      "status": "partnered",
+      "employment_status": "employed"
+    },
+    "children": [],
+    "employment_status": "student",
+    "job_end_date": null,
+    "household_income_annual": 36000,
+    "savings": null,
+    "tenure": "own",
+    "rent_monthly": null,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [],
+    "consent_proactive_contact": true,
+    "record_updated": "2026-09-09"
+  },
+  {
+    "id": "C-1063",
+    "full_name": "Yuki Okafor",
+    "dob": "1983-09-11",
+    "preferred_language": "English",
+    "region": "Westfield",
+    "contact": {
+      "phone": "+00 555 4810 499",
+      "email": "yuki.okafor@example.org"
+    },
+    "partner": {
+      "name": "Aroha Okafor",
+      "dob": "1985-05-22",
+      "status": "partnered",
+      "employment_status": "employed"
+    },
+    "children": [
+      {
+        "name": "Hana Okafor",
+        "dob": "2023-08-25"
+      }
+    ],
+    "employment_status": "unemployed",
+    "job_end_date": null,
+    "household_income_annual": 31000,
+    "savings": null,
+    "tenure": "rent",
+    "rent_monthly": 1050,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [],
+    "consent_proactive_contact": true,
+    "record_updated": "2026-08-15"
+  },
+  {
+    "id": "C-1064",
+    "full_name": "Arjun Kim",
+    "dob": "1962-02-16",
+    "preferred_language": "Mandarin",
+    "region": "Highmoor",
+    "contact": {
+      "phone": "+00 555 6410 743",
+      "email": "arjun.kim@example.org"
+    },
+    "partner": {
+      "name": "Ravi Kim",
+      "dob": "1960-05-23",
+      "status": "partnered",
+      "employment_status": "unemployed"
+    },
+    "children": [],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 55000,
+    "savings": 14000,
+    "tenure": "own",
+    "rent_monthly": null,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [],
+    "consent_proactive_contact": true,
+    "record_updated": "2026-08-31"
+  },
+  {
+    "id": "C-1065",
+    "full_name": "Kofi Brown",
+    "dob": "1960-09-28",
+    "preferred_language": "English",
+    "region": "Riverside",
+    "contact": {
+      "phone": "+00 555 2633 258",
+      "email": "kofi.brown@example.org"
+    },
+    "partner": {
+      "name": "Ahmed Brown",
+      "dob": "1956-04-12",
+      "status": "partnered",
+      "employment_status": "unemployed"
+    },
+    "children": [],
+    "employment_status": "retired",
+    "job_end_date": null,
+    "household_income_annual": 78000,
+    "savings": 3500,
+    "tenure": "social",
+    "rent_monthly": null,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [],
+    "consent_proactive_contact": true,
+    "record_updated": "2024-12-17"
+  },
+  {
+    "id": "C-1066",
+    "full_name": "Kofi Hall",
+    "dob": "1997-05-27",
+    "preferred_language": "English",
+    "region": "Southbay",
+    "contact": {
+      "phone": "+00 555 4214 518",
+      "email": "kofi.hall@example.org"
+    },
+    "partner": null,
+    "children": [
+      {
+        "name": "Tomasz Hall",
+        "dob": "2024-07-04"
+      }
+    ],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 26000,
+    "savings": 3500,
+    "tenure": "rent",
+    "rent_monthly": 950,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [
+      "CB",
+      "HSB"
+    ],
+    "consent_proactive_contact": true,
+    "record_updated": "2025-06-13"
+  },
+  {
+    "id": "C-1067",
+    "full_name": "Kwame Torres",
+    "dob": "1993-01-30",
+    "preferred_language": "Arabic",
+    "region": "Northport",
+    "contact": {
+      "phone": "+00 555 5575 114",
+      "email": "kwame.torres@example.org"
+    },
+    "partner": null,
+    "children": [],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 26000,
+    "savings": null,
+    "tenure": "rent",
+    "rent_monthly": 950,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [
+      "HSB"
+    ],
+    "consent_proactive_contact": true,
+    "record_updated": "2025-04-15"
+  },
+  {
+    "id": "C-1068",
+    "full_name": "Amara Torres",
+    "dob": "1971-09-25",
+    "preferred_language": "Arabic",
+    "region": "Riverside",
+    "contact": {
+      "phone": "+00 555 7090 176",
+      "email": "amara.torres@example.org"
+    },
+    "partner": {
+      "name": "Ahmed Torres",
+      "dob": "1974-05-12",
+      "status": "partnered",
+      "employment_status": "unemployed"
+    },
+    "children": [],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 31000,
+    "savings": 1200,
+    "tenure": "social",
+    "rent_monthly": null,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [],
+    "consent_proactive_contact": true,
+    "record_updated": "2025-10-16"
+  },
+  {
+    "id": "C-1069",
+    "full_name": "Diego Ivanova",
+    "dob": "1982-09-24",
+    "preferred_language": "English",
+    "region": "Eastvale",
+    "contact": {
+      "phone": "+00 555 6508 507",
+      "email": "diego.ivanova@example.org"
+    },
+    "partner": null,
+    "children": [
+      {
+        "name": "Vera Ivanova",
+        "dob": "2009-05-16"
+      }
+    ],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 95000,
+    "savings": 22000,
+    "tenure": "own",
+    "rent_monthly": null,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [],
+    "consent_proactive_contact": true,
+    "record_updated": "2026-03-11"
+  },
+  {
+    "id": "C-1070",
+    "full_name": "Nadia Reid",
+    "dob": "1995-02-05",
+    "preferred_language": "Spanish",
+    "region": "Eastvale",
+    "contact": {
+      "phone": "+00 555 8022 220",
+      "email": "nadia.reid@example.org"
+    },
+    "partner": {
+      "name": "Esther Reid",
+      "dob": "1993-10-12",
+      "status": "partnered",
+      "employment_status": "employed"
+    },
+    "children": [
+      {
+        "name": "Sofia Reid",
+        "dob": "2021-02-10"
+      }
+    ],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 95000,
+    "savings": 22000,
+    "tenure": "own",
+    "rent_monthly": null,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [
+      "CB"
+    ],
+    "consent_proactive_contact": true,
+    "record_updated": "2026-02-03"
+  },
+  {
+    "id": "C-1071",
+    "full_name": "Felix Rossi",
+    "dob": "1999-02-16",
+    "preferred_language": "Polish",
+    "region": "Westfield",
+    "contact": {
+      "phone": "+00 555 9246 974",
+      "email": "felix.rossi@example.org"
+    },
+    "partner": null,
+    "children": [
+      {
+        "name": "Minh Rossi",
+        "dob": "2021-04-30"
+      }
+    ],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 31000,
+    "savings": 22000,
+    "tenure": "rent",
+    "rent_monthly": 1050,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [
+      "SCH"
+    ],
+    "consent_proactive_contact": true,
+    "record_updated": "2025-12-22"
+  },
+  {
+    "id": "C-1072",
+    "full_name": "Noah Reid",
+    "dob": "1968-06-28",
+    "preferred_language": "English",
+    "region": "Riverside",
+    "contact": {
+      "phone": "+00 555 7193 231",
+      "email": "noah.reid@example.org"
+    },
+    "partner": null,
+    "children": [],
+    "employment_status": "unemployed",
+    "job_end_date": null,
+    "household_income_annual": 95000,
+    "savings": null,
+    "tenure": "social",
+    "rent_monthly": null,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [],
+    "consent_proactive_contact": true,
+    "record_updated": "2026-08-12"
+  },
+  {
+    "id": "C-1073",
+    "full_name": "Omar Patel",
+    "dob": "1961-04-21",
+    "preferred_language": "Vietnamese",
+    "region": "Eastvale",
+    "contact": {
+      "phone": "+00 555 9470 157",
+      "email": "omar.patel@example.org"
+    },
+    "partner": null,
+    "children": [],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 42000,
+    "savings": 3500,
+    "tenure": "own",
+    "rent_monthly": null,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [],
+    "consent_proactive_contact": true,
+    "record_updated": "2025-02-11"
+  },
+  {
+    "id": "C-1074",
+    "full_name": "Hamza Mensah",
+    "dob": "1974-02-17",
+    "preferred_language": "Spanish",
+    "region": "Southbay",
+    "contact": {
+      "phone": "+00 555 2009 120",
+      "email": "hamza.mensah@example.org"
+    },
+    "partner": null,
+    "children": [
+      {
+        "name": "Fatima Mensah",
+        "dob": "2019-08-19"
+      },
+      {
+        "name": "Isabel Mensah",
+        "dob": "2010-01-18"
+      }
+    ],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 64000,
+    "savings": 22000,
+    "tenure": "social",
+    "rent_monthly": null,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [],
+    "consent_proactive_contact": true,
+    "record_updated": "2026-03-20"
+  },
+  {
+    "id": "C-1075",
+    "full_name": "Lukas Hall",
+    "dob": "1974-03-25",
+    "preferred_language": "Arabic",
+    "region": "Westfield",
+    "contact": {
+      "phone": "+00 555 3764 579",
+      "email": "lukas.hall@example.org"
+    },
+    "partner": {
+      "name": "Pavel Hall",
+      "dob": "1972-08-13",
+      "status": "partnered",
+      "employment_status": "employed"
+    },
+    "children": [
+      {
+        "name": "Minh Hall",
+        "dob": "2021-01-13"
+      },
+      {
+        "name": "Tomasz Hall",
+        "dob": "2026-05-01"
+      },
+      {
+        "name": "Arjun Hall",
+        "dob": "2015-06-28"
+      }
+    ],
+    "employment_status": "student",
+    "job_end_date": null,
+    "household_income_annual": 22000,
+    "savings": 14000,
+    "tenure": "own",
+    "rent_monthly": null,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [
+      "CB"
+    ],
+    "consent_proactive_contact": true,
+    "record_updated": "2026-03-16"
+  },
+  {
+    "id": "C-1076",
+    "full_name": "Mateo Garcia",
+    "dob": "1967-01-07",
+    "preferred_language": "English",
+    "region": "Westfield",
+    "contact": {
+      "phone": "+00 555 2013 654",
+      "email": "mateo.garcia@example.org"
+    },
+    "partner": null,
+    "children": [],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 22000,
+    "savings": 1200,
+    "tenure": "own",
+    "rent_monthly": null,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [],
+    "consent_proactive_contact": true,
+    "record_updated": "2024-10-30"
+  },
+  {
+    "id": "C-1077",
+    "full_name": "Mei Yilmaz",
+    "dob": "1995-09-13",
+    "preferred_language": "Spanish",
+    "region": "Southbay",
+    "contact": {
+      "phone": "+00 555 6939 129",
+      "email": "mei.yilmaz@example.org"
+    },
+    "partner": {
+      "name": "Rosa Yilmaz",
+      "dob": "1992-05-24",
+      "status": "partnered",
+      "employment_status": "employed"
+    },
+    "children": [
+      {
+        "name": "Fatima Yilmaz",
+        "dob": "2019-05-29"
+      }
+    ],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 18000,
+    "savings": 22000,
+    "tenure": "rent",
+    "rent_monthly": 1050,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [
+      "HSB"
+    ],
+    "consent_proactive_contact": true,
+    "record_updated": "2024-06-25"
+  },
+  {
+    "id": "C-1078",
+    "full_name": "Nadia Rossi",
+    "dob": "1970-09-13",
+    "preferred_language": "Polish",
+    "region": "Southbay",
+    "contact": {
+      "phone": "+00 555 2093 362",
+      "email": "nadia.rossi@example.org"
+    },
+    "partner": {
+      "name": "Jack Rossi",
+      "dob": "1973-03-06",
+      "status": "partnered",
+      "employment_status": "employed"
+    },
+    "children": [],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 95000,
+    "savings": 1200,
+    "tenure": "social",
+    "rent_monthly": null,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [],
+    "consent_proactive_contact": true,
+    "record_updated": "2025-10-18"
+  },
+  {
+    "id": "C-1079",
+    "full_name": "Esther Haddad",
+    "dob": "1963-06-24",
+    "preferred_language": "English",
+    "region": "Riverside",
+    "contact": {
+      "phone": "+00 555 2718 795",
+      "email": "esther.haddad@example.org"
+    },
+    "partner": {
+      "name": "Clara Haddad",
+      "dob": "1960-04-17",
+      "status": "partnered",
+      "employment_status": "employed"
+    },
+    "children": [],
+    "employment_status": "unemployed",
+    "job_end_date": null,
+    "household_income_annual": 18000,
+    "savings": 14000,
+    "tenure": "own",
+    "rent_monthly": null,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [
+      "ESA"
+    ],
+    "consent_proactive_contact": true,
+    "record_updated": "2026-03-09"
+  },
+  {
+    "id": "C-1080",
+    "full_name": "Grace Rossi",
+    "dob": "1972-10-02",
+    "preferred_language": "English",
+    "region": "Eastvale",
+    "contact": {
+      "phone": "+00 555 7463 744",
+      "email": "grace.rossi@example.org"
+    },
+    "partner": {
+      "name": "Maya Rossi",
+      "dob": "1975-03-31",
+      "status": "partnered",
+      "employment_status": "employed"
+    },
+    "children": [
+      {
+        "name": "Chloe Rossi",
+        "dob": "2013-04-28"
+      },
+      {
+        "name": "Clara Rossi",
+        "dob": "2020-05-27"
+      },
+      {
+        "name": "Anna Rossi",
+        "dob": "2018-04-25"
+      }
+    ],
+    "employment_status": "unemployed",
+    "job_end_date": null,
+    "household_income_annual": 42000,
+    "savings": 22000,
+    "tenure": "own",
+    "rent_monthly": null,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [],
+    "consent_proactive_contact": true,
+    "record_updated": "2024-11-24"
+  },
+  {
+    "id": "C-1081",
+    "full_name": "Leila Mensah",
+    "dob": "1963-07-24",
+    "preferred_language": "English",
+    "region": "Eastvale",
+    "contact": {
+      "phone": "+00 555 1848 356",
+      "email": "leila.mensah@example.org"
+    },
+    "partner": {
+      "name": "Fatima Mensah",
+      "dob": "1960-05-30",
+      "status": "partnered",
+      "employment_status": "employed"
+    },
+    "children": [],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 78000,
+    "savings": 14000,
+    "tenure": "rent",
+    "rent_monthly": 1050,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [],
+    "consent_proactive_contact": true,
+    "record_updated": "2026-09-14"
+  },
+  {
+    "id": "C-1082",
+    "full_name": "Jack Costa",
+    "dob": "1971-07-31",
+    "preferred_language": "English",
+    "region": "Eastvale",
+    "contact": {
+      "phone": "+00 555 8689 374",
+      "email": "jack.costa@example.org"
+    },
+    "partner": null,
+    "children": [],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 55000,
+    "savings": null,
+    "tenure": "own",
+    "rent_monthly": null,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [],
+    "consent_proactive_contact": true,
+    "record_updated": "2025-05-26"
+  },
+  {
+    "id": "C-1083",
+    "full_name": "Hamza Ali",
+    "dob": "1981-08-25",
+    "preferred_language": "Vietnamese",
+    "region": "Riverside",
+    "contact": {
+      "phone": "+00 555 7841 710",
+      "email": "hamza.ali@example.org"
+    },
+    "partner": {
+      "name": "Arjun Ali",
+      "dob": "1982-08-30",
+      "status": "partnered",
+      "employment_status": "employed"
+    },
+    "children": [
+      {
+        "name": "Zainab Ali",
+        "dob": "2016-08-26"
+      }
+    ],
+    "employment_status": "student",
+    "job_end_date": null,
+    "household_income_annual": 31000,
+    "savings": null,
+    "tenure": "rent",
+    "rent_monthly": 950,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [
+      "CB",
+      "HSB"
+    ],
+    "consent_proactive_contact": true,
+    "record_updated": "2025-03-04"
+  },
+  {
+    "id": "C-1084",
+    "full_name": "Yuki Hussain",
+    "dob": "1997-03-04",
+    "preferred_language": "Hindi",
+    "region": "Riverside",
+    "contact": {
+      "phone": "+00 555 9923 231",
+      "email": "yuki.hussain@example.org"
+    },
+    "partner": null,
+    "children": [],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 18000,
+    "savings": 1200,
+    "tenure": "rent",
+    "rent_monthly": 850,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [
+      "HSB"
+    ],
+    "consent_proactive_contact": true,
+    "record_updated": "2025-01-29"
+  },
+  {
+    "id": "C-1085",
+    "full_name": "Zainab Singh",
+    "dob": "1983-05-30",
+    "preferred_language": "English",
+    "region": "Eastvale",
+    "contact": {
+      "phone": "+00 555 2628 622",
+      "email": "zainab.singh@example.org"
+    },
+    "partner": null,
+    "children": [
+      {
+        "name": "Aroha Singh",
+        "dob": "2017-01-31"
+      },
+      {
+        "name": "Grace Singh",
+        "dob": "2010-09-09"
+      }
+    ],
+    "employment_status": "unemployed",
+    "job_end_date": null,
+    "household_income_annual": 18000,
+    "savings": 3500,
+    "tenure": "rent",
+    "rent_monthly": 1400,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [
+      "CB",
+      "ESA",
+      "SCH"
+    ],
+    "consent_proactive_contact": true,
+    "record_updated": "2024-06-13"
+  },
+  {
+    "id": "C-1086",
+    "full_name": "Ravi Brown",
+    "dob": "1968-03-23",
+    "preferred_language": "Spanish",
+    "region": "Westfield",
+    "contact": {
+      "phone": "+00 555 5566 839",
+      "email": "ravi.brown@example.org"
+    },
+    "partner": {
+      "name": "Ahmed Brown",
+      "dob": "1972-07-20",
+      "status": "partnered",
+      "employment_status": "employed"
+    },
+    "children": [],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": null,
+    "savings": 22000,
+    "tenure": "own",
+    "rent_monthly": null,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [],
+    "consent_proactive_contact": true,
+    "record_updated": "2025-10-30"
+  },
+  {
+    "id": "C-1087",
+    "full_name": "Ibrahim Novak",
+    "dob": "1994-04-04",
+    "preferred_language": "Arabic",
+    "region": "Riverside",
+    "contact": {
+      "phone": "+00 555 9292 111",
+      "email": "ibrahim.novak@example.org"
+    },
+    "partner": null,
+    "children": [
+      {
+        "name": "Sipho Novak",
+        "dob": "2015-04-25"
+      },
+      {
+        "name": "Chloe Novak",
+        "dob": "2011-01-04"
+      },
+      {
+        "name": "Chloe Novak",
+        "dob": "2021-10-05"
+      }
+    ],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": null,
+    "savings": 1200,
+    "tenure": "rent",
+    "rent_monthly": 1250,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [
+      "CB"
+    ],
+    "consent_proactive_contact": true,
+    "record_updated": "2026-03-23"
+  },
+  {
+    "id": "C-1088",
+    "full_name": "Rosa Brown",
+    "dob": "1964-08-02",
+    "preferred_language": "Spanish",
+    "region": "Westfield",
+    "contact": {
+      "phone": "+00 555 8760 457",
+      "email": "rosa.brown@example.org"
+    },
+    "partner": {
+      "name": "Minh Brown",
+      "dob": "1964-06-08",
+      "status": "partnered",
+      "employment_status": "employed"
+    },
+    "children": [],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 55000,
+    "savings": 14000,
+    "tenure": "own",
+    "rent_monthly": null,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [],
+    "consent_proactive_contact": true,
+    "record_updated": "2025-01-27"
+  },
+  {
+    "id": "C-1089",
+    "full_name": "Aroha Hall",
+    "dob": "1981-08-09",
+    "preferred_language": "English",
+    "region": "Eastvale",
+    "contact": {
+      "phone": "+00 555 4007 920",
+      "email": "aroha.hall@example.org"
+    },
+    "partner": {
+      "name": "Minh Hall",
+      "dob": "1981-01-04",
+      "status": "partnered",
+      "employment_status": "unemployed"
+    },
+    "children": [
+      {
+        "name": "Mei Hall",
+        "dob": "2020-07-24"
+      }
+    ],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 36000,
+    "savings": 1200,
+    "tenure": "social",
+    "rent_monthly": null,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [],
+    "consent_proactive_contact": true,
+    "record_updated": "2026-03-15"
+  },
+  {
+    "id": "C-1090",
+    "full_name": "Mateo Tanaka",
+    "dob": "1982-03-26",
+    "preferred_language": "Vietnamese",
+    "region": "Eastvale",
+    "contact": {
+      "phone": "+00 555 5176 130",
+      "email": "mateo.tanaka@example.org"
+    },
+    "partner": {
+      "name": "Elena Tanaka",
+      "dob": "1981-03-04",
+      "status": "partnered",
+      "employment_status": "employed"
+    },
+    "children": [
+      {
+        "name": "Kofi Tanaka",
+        "dob": "2026-09-14"
+      }
+    ],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 36000,
+    "savings": null,
+    "tenure": "social",
+    "rent_monthly": null,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [
+      "CB"
+    ],
+    "consent_proactive_contact": true,
+    "record_updated": "2025-11-16"
+  },
+  {
+    "id": "C-1091",
+    "full_name": "Aisha Mensah",
+    "dob": "1969-06-17",
+    "preferred_language": "English",
+    "region": "Highmoor",
+    "contact": {
+      "phone": "+00 555 1970 982",
+      "email": "aisha.mensah@example.org"
+    },
+    "partner": null,
+    "children": [],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 31000,
+    "savings": 1200,
+    "tenure": "social",
+    "rent_monthly": null,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [],
+    "consent_proactive_contact": true,
+    "record_updated": "2025-04-22"
+  },
+  {
+    "id": "C-1092",
+    "full_name": "Tariq Reid",
+    "dob": "1981-09-12",
+    "preferred_language": "Spanish",
+    "region": "Northport",
+    "contact": {
+      "phone": "+00 555 2574 508",
+      "email": "tariq.reid@example.org"
+    },
+    "partner": {
+      "name": "Aisha Reid",
+      "dob": "1982-04-12",
+      "status": "partnered",
+      "employment_status": "unemployed"
+    },
+    "children": [
+      {
+        "name": "Ibrahim Reid",
+        "dob": "2017-06-28"
+      },
+      {
+        "name": "Tariq Reid",
+        "dob": "2023-07-08"
+      }
+    ],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 55000,
+    "savings": 22000,
+    "tenure": "rent",
+    "rent_monthly": 1250,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [],
+    "consent_proactive_contact": true,
+    "record_updated": "2025-11-06"
+  },
+  {
+    "id": "C-1093",
+    "full_name": "Zainab Lopez",
+    "dob": "1980-02-13",
+    "preferred_language": "English",
+    "region": "Northport",
+    "contact": {
+      "phone": "+00 555 3825 476",
+      "email": "zainab.lopez@example.org"
+    },
+    "partner": null,
+    "children": [
+      {
+        "name": "Yuki Lopez",
+        "dob": "2014-08-07"
+      },
+      {
+        "name": "Rosa Lopez",
+        "dob": "2023-06-04"
+      }
+    ],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 42000,
+    "savings": null,
+    "tenure": "own",
+    "rent_monthly": null,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [
+      "CB"
+    ],
+    "consent_proactive_contact": true,
+    "record_updated": "2024-12-30"
+  },
+  {
+    "id": "C-1094",
+    "full_name": "Chloe Ahmed",
+    "dob": "1987-08-06",
+    "preferred_language": "Spanish",
+    "region": "Riverside",
+    "contact": {
+      "phone": "+00 555 5710 705",
+      "email": "chloe.ahmed@example.org"
+    },
+    "partner": null,
+    "children": [],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": null,
+    "savings": 22000,
+    "tenure": "own",
+    "rent_monthly": null,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [],
+    "consent_proactive_contact": true,
+    "record_updated": "2024-07-02"
+  },
+  {
+    "id": "C-1095",
+    "full_name": "Clara Yilmaz",
+    "dob": "1980-02-12",
+    "preferred_language": "Spanish",
+    "region": "Northport",
+    "contact": {
+      "phone": "+00 555 9083 328",
+      "email": "clara.yilmaz@example.org"
+    },
+    "partner": {
+      "name": "Lucia Yilmaz",
+      "dob": "1977-07-23",
+      "status": "partnered",
+      "employment_status": "employed"
+    },
+    "children": [
+      {
+        "name": "Zainab Yilmaz",
+        "dob": "2012-05-15"
+      },
+      {
+        "name": "Jack Yilmaz",
+        "dob": "2025-04-06"
+      }
+    ],
+    "employment_status": "student",
+    "job_end_date": null,
+    "household_income_annual": 18000,
+    "savings": 3500,
+    "tenure": "rent",
+    "rent_monthly": 1400,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [
+      "CB",
+      "ESA",
+      "SCH"
+    ],
+    "consent_proactive_contact": true,
+    "record_updated": "2024-10-03"
+  },
+  {
+    "id": "C-1096",
+    "full_name": "Daniel Santos",
+    "dob": "1993-05-09",
+    "preferred_language": "English",
+    "region": "Northport",
+    "contact": {
+      "phone": "+00 555 3309 716",
+      "email": "daniel.santos@example.org"
+    },
+    "partner": null,
+    "children": [],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 48000,
+    "savings": 14000,
+    "tenure": "own",
+    "rent_monthly": null,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [],
+    "consent_proactive_contact": true,
+    "record_updated": "2024-07-02"
+  },
+  {
+    "id": "C-1097",
+    "full_name": "Priya Silva",
+    "dob": "1984-09-28",
+    "preferred_language": "Arabic",
+    "region": "Eastvale",
+    "contact": {
+      "phone": "+00 555 4742 385",
+      "email": "priya.silva@example.org"
+    },
+    "partner": {
+      "name": "Ingrid Silva",
+      "dob": "1982-03-30",
+      "status": "partnered",
+      "employment_status": "unemployed"
+    },
+    "children": [
+      {
+        "name": "Samuel Silva",
+        "dob": "2021-12-30"
+      },
+      {
+        "name": "Hana Silva",
+        "dob": "2025-06-11"
+      },
+      {
+        "name": "Lucia Silva",
+        "dob": "2018-09-24"
+      }
+    ],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 55000,
+    "savings": 1200,
+    "tenure": "rent",
+    "rent_monthly": 1050,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [],
+    "consent_proactive_contact": true,
+    "record_updated": "2025-03-01"
+  },
+  {
+    "id": "C-1098",
+    "full_name": "Minh Brown",
+    "dob": "1991-07-19",
+    "preferred_language": "English",
+    "region": "Highmoor",
+    "contact": {
+      "phone": "+00 555 2442 495",
+      "email": "minh.brown@example.org"
+    },
+    "partner": null,
+    "children": [],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 36000,
+    "savings": 14000,
+    "tenure": "rent",
+    "rent_monthly": 1050,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [],
+    "consent_proactive_contact": true,
+    "record_updated": "2025-09-23"
+  },
+  {
+    "id": "C-1099",
+    "full_name": "Hana Mensah",
+    "dob": "1983-01-19",
+    "preferred_language": "English",
+    "region": "Riverside",
+    "contact": {
+      "phone": "+00 555 9566 856",
+      "email": "hana.mensah@example.org"
+    },
+    "partner": null,
+    "children": [
+      {
+        "name": "Nadia Mensah",
+        "dob": "2025-01-05"
+      }
+    ],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 78000,
+    "savings": 22000,
+    "tenure": "rent",
+    "rent_monthly": 1400,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [],
+    "consent_proactive_contact": true,
+    "record_updated": "2024-10-12"
+  },
+  {
+    "id": "C-1100",
+    "full_name": "Amara Reid",
+    "dob": "1984-08-21",
+    "preferred_language": "Spanish",
+    "region": "Westfield",
+    "contact": {
+      "phone": "+00 555 4287 388",
+      "email": "amara.reid@example.org"
+    },
+    "partner": {
+      "name": "Nadia Reid",
+      "dob": "1984-08-19",
+      "status": "partnered",
+      "employment_status": "unemployed"
+    },
+    "children": [
+      {
+        "name": "Clara Reid",
+        "dob": "2013-04-29"
+      },
+      {
+        "name": "Fatima Reid",
+        "dob": "2018-02-27"
+      }
+    ],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 64000,
+    "savings": 22000,
+    "tenure": "own",
+    "rent_monthly": null,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [],
+    "consent_proactive_contact": true,
+    "record_updated": "2024-08-07"
+  },
+  {
+    "id": "C-1101",
+    "full_name": "Anna Tanaka",
+    "dob": "1992-05-15",
+    "preferred_language": "English",
+    "region": "Eastvale",
+    "contact": {
+      "phone": "+00 555 3051 339",
+      "email": "anna.tanaka@example.org"
+    },
+    "partner": {
+      "name": "Hamza Tanaka",
+      "dob": "1989-08-01",
+      "status": "partnered",
+      "employment_status": "employed"
+    },
+    "children": [
+      {
+        "name": "Mateo Tanaka",
+        "dob": "2015-02-06"
+      }
+    ],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 22000,
+    "savings": 22000,
+    "tenure": "rent",
+    "rent_monthly": 1250,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [],
+    "consent_proactive_contact": true,
+    "record_updated": "2022-12-20"
+  },
+  {
+    "id": "C-1102",
+    "full_name": "Diego Okafor",
+    "dob": "1997-02-05",
+    "preferred_language": "English",
+    "region": "Northport",
+    "contact": {
+      "phone": "+00 555 8554 754",
+      "email": "diego.okafor@example.org"
+    },
+    "partner": {
+      "name": "Priya Okafor",
+      "dob": "1999-04-22",
+      "status": "partnered",
+      "employment_status": "unemployed"
+    },
+    "children": [
+      {
+        "name": "Anna Okafor",
+        "dob": "2019-07-18"
+      }
+    ],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 70000,
+    "savings": 14000,
+    "tenure": "rent",
+    "rent_monthly": 1250,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [
+      "CB"
+    ],
+    "consent_proactive_contact": true,
+    "record_updated": "2024-05-26"
+  },
+  {
+    "id": "C-1103",
+    "full_name": "Fatima Santos",
+    "dob": "1994-07-10",
+    "preferred_language": "English",
+    "region": "Eastvale",
+    "contact": {
+      "phone": "+00 555 1710 722",
+      "email": "fatima.santos@example.org"
+    },
+    "partner": {
+      "name": "Tomasz Santos",
+      "dob": "1991-07-14",
+      "status": "partnered",
+      "employment_status": "unemployed"
+    },
+    "children": [],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 24000,
+    "savings": 3500,
+    "tenure": "own",
+    "rent_monthly": null,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [
+      "ESA"
+    ],
+    "consent_proactive_contact": true,
+    "record_updated": "2026-04-25"
+  },
+  {
+    "id": "C-1104",
+    "full_name": "Yuki Hall",
+    "dob": "1992-05-28",
+    "preferred_language": "Vietnamese",
+    "region": "Eastvale",
+    "contact": {
+      "phone": "+00 555 3642 452",
+      "email": "yuki.hall@example.org"
+    },
+    "partner": {
+      "name": "Ravi Hall",
+      "dob": "1994-03-11",
+      "status": "partnered",
+      "employment_status": "employed"
+    },
+    "children": [
+      {
+        "name": "Sofia Hall",
+        "dob": "2019-10-20"
+      }
+    ],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 24000,
+    "savings": null,
+    "tenure": "own",
+    "rent_monthly": null,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [
+      "CB",
+      "ESA",
+      "SCH"
+    ],
+    "consent_proactive_contact": true,
+    "record_updated": "2026-03-03"
+  },
+  {
+    "id": "C-1105",
+    "full_name": "Grace Torres",
+    "dob": "1997-01-22",
+    "preferred_language": "Hindi",
+    "region": "Eastvale",
+    "contact": {
+      "phone": "+00 555 8478 149",
+      "email": "grace.torres@example.org"
+    },
+    "partner": {
+      "name": "Anna Torres",
+      "dob": "1994-05-11",
+      "status": "partnered",
+      "employment_status": "employed"
+    },
+    "children": [],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 38000,
+    "savings": 1200,
+    "tenure": "rent",
+    "rent_monthly": 850,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [],
+    "consent_proactive_contact": true,
+    "record_updated": "2025-06-09"
+  },
+  {
+    "id": "C-1106",
+    "full_name": "Amara Okafor",
+    "dob": "1992-06-24",
+    "preferred_language": "Spanish",
+    "region": "Highmoor",
+    "contact": {
+      "phone": "+00 555 4188 964",
+      "email": "amara.okafor@example.org"
+    },
+    "partner": {
+      "name": "Aroha Okafor",
+      "dob": "1993-02-18",
+      "status": "partnered",
+      "employment_status": "employed"
+    },
+    "children": [
+      {
+        "name": "Arjun Okafor",
+        "dob": "2023-01-09"
+      }
+    ],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 31000,
+    "savings": 3500,
+    "tenure": "own",
+    "rent_monthly": null,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [
+      "CB"
+    ],
+    "consent_proactive_contact": true,
+    "record_updated": "2025-12-27"
+  },
+  {
+    "id": "C-1107",
+    "full_name": "Tariq Nguyen",
+    "dob": "2002-03-11",
+    "preferred_language": "English",
+    "region": "Eastvale",
+    "contact": {
+      "phone": "+00 555 3552 446",
+      "email": "tariq.nguyen@example.org"
+    },
+    "partner": {
+      "name": "Fatima Nguyen",
+      "dob": "1999-07-24",
+      "status": "partnered",
+      "employment_status": "employed"
+    },
+    "children": [
+      {
+        "name": "Isabel Nguyen",
+        "dob": "2023-08-18"
+      }
+    ],
+    "employment_status": "unemployed",
+    "job_end_date": null,
+    "household_income_annual": 24000,
+    "savings": 3500,
+    "tenure": "own",
+    "rent_monthly": null,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [
+      "CB",
+      "ESA"
+    ],
+    "consent_proactive_contact": true,
+    "record_updated": "2025-07-18"
+  },
+  {
+    "id": "C-1108",
+    "full_name": "Diego Santos",
+    "dob": "1992-07-10",
+    "preferred_language": "English",
+    "region": "Riverside",
+    "contact": {
+      "phone": "+00 555 3169 992",
+      "email": "diego.santos@example.org"
+    },
+    "partner": {
+      "name": "Daniel Santos",
+      "dob": "1994-01-16",
+      "status": "partnered",
+      "employment_status": "employed"
+    },
+    "children": [
+      {
+        "name": "Omar Santos",
+        "dob": "2017-01-29"
+      }
+    ],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 47000,
+    "savings": 2000,
+    "tenure": "rent",
+    "rent_monthly": 1050,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [
+      "CB"
+    ],
+    "consent_proactive_contact": true,
+    "record_updated": "2025-04-28"
+  },
+  {
+    "id": "C-1109",
+    "full_name": "Felix Okafor",
+    "dob": "1985-12-26",
+    "preferred_language": "Arabic",
+    "region": "Eastvale",
+    "contact": {
+      "phone": "+00 555 1135 628",
+      "email": "felix.okafor@example.org"
+    },
+    "partner": null,
+    "children": [],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 61000,
+    "savings": 18000,
+    "tenure": "rent",
+    "rent_monthly": 1150,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [],
+    "consent_proactive_contact": true,
+    "record_updated": "2024-10-25"
+  },
+  {
+    "id": "C-1110",
+    "full_name": "Rosa Ahmed",
+    "dob": "1991-05-01",
+    "preferred_language": "Vietnamese",
+    "region": "Northport",
+    "contact": {
+      "phone": "+00 555 2831 353",
+      "email": "rosa.ahmed@example.org"
+    },
+    "partner": {
+      "name": "Kwame Ahmed",
+      "dob": "1988-05-24",
+      "status": "partnered",
+      "employment_status": "unemployed"
+    },
+    "children": [],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 47000,
+    "savings": 18000,
+    "tenure": "own",
+    "rent_monthly": null,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [],
+    "consent_proactive_contact": true,
+    "record_updated": "2026-02-06"
+  },
+  {
+    "id": "C-1111",
+    "full_name": "Aroha Fischer",
+    "dob": "1971-02-01",
+    "preferred_language": "Spanish",
+    "region": "Highmoor",
+    "contact": {
+      "phone": "+00 555 2145 519",
+      "email": "aroha.fischer@example.org"
+    },
+    "partner": null,
+    "children": [
+      {
+        "name": "Maya Fischer",
+        "dob": "2017-02-18"
+      }
+    ],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 61000,
+    "savings": 18000,
+    "tenure": "rent",
+    "rent_monthly": 950,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [
+      "CB"
+    ],
+    "consent_proactive_contact": true,
+    "record_updated": "2024-08-29"
+  },
+  {
+    "id": "C-1112",
+    "full_name": "Aisha Haddad",
+    "dob": "1990-10-08",
+    "preferred_language": "English",
+    "region": "Riverside",
+    "contact": {
+      "phone": "+00 555 2748 974",
+      "email": "aisha.haddad@example.org"
+    },
+    "partner": null,
+    "children": [
+      {
+        "name": "Esther Haddad",
+        "dob": "2017-04-08"
+      }
+    ],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 61000,
+    "savings": 18000,
+    "tenure": "rent",
+    "rent_monthly": 1400,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [
+      "CB"
+    ],
+    "consent_proactive_contact": true,
+    "record_updated": "2026-09-13"
+  },
+  {
+    "id": "C-1113",
+    "full_name": "Clara Rossi",
+    "dob": "2001-01-22",
+    "preferred_language": "Arabic",
+    "region": "Southbay",
+    "contact": {
+      "phone": "+00 555 4713 306",
+      "email": "clara.rossi@example.org"
+    },
+    "partner": null,
+    "children": [
+      {
+        "name": "Leila Rossi",
+        "dob": "2022-08-18"
+      },
+      {
+        "name": "Elena Rossi",
+        "dob": "2015-08-28"
+      }
+    ],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 47000,
+    "savings": 6000,
+    "tenure": "rent",
+    "rent_monthly": 1050,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [
+      "CB"
+    ],
+    "consent_proactive_contact": true,
+    "record_updated": "2025-09-28"
+  },
+  {
+    "id": "C-1114",
+    "full_name": "Esther Walker",
+    "dob": "1974-08-11",
+    "preferred_language": "English",
+    "region": "Northport",
+    "contact": {
+      "phone": "+00 555 5250 228",
+      "email": "esther.walker@example.org"
+    },
+    "partner": null,
+    "children": [],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 47000,
+    "savings": 2000,
+    "tenure": "own",
+    "rent_monthly": null,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [],
+    "consent_proactive_contact": true,
+    "record_updated": "2025-11-30"
+  },
+  {
+    "id": "C-1115",
+    "full_name": "Zainab Hall",
+    "dob": "1998-07-28",
+    "preferred_language": "English",
+    "region": "Riverside",
+    "contact": {
+      "phone": "+00 555 2538 911",
+      "email": "zainab.hall@example.org"
+    },
+    "partner": {
+      "name": "Anna Hall",
+      "dob": "2000-09-25",
+      "status": "partnered",
+      "employment_status": "employed"
+    },
+    "children": [],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 61000,
+    "savings": 18000,
+    "tenure": "rent",
+    "rent_monthly": 1400,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [],
+    "consent_proactive_contact": true,
+    "record_updated": "2025-02-14"
+  },
+  {
+    "id": "C-1116",
+    "full_name": "Rosa Kowalski",
+    "dob": "1965-09-27",
+    "preferred_language": "English",
+    "region": "Eastvale",
+    "contact": {
+      "phone": "+00 555 7085 424",
+      "email": "rosa.kowalski@example.org"
+    },
+    "partner": {
+      "name": "Zainab Kowalski",
+      "dob": "1968-05-01",
+      "status": "partnered",
+      "employment_status": "employed"
+    },
+    "children": [],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 30000,
+    "savings": 22000,
+    "tenure": "social",
+    "rent_monthly": null,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [],
+    "consent_proactive_contact": true,
+    "record_updated": "2024-09-11"
+  },
+  {
+    "id": "C-1117",
+    "full_name": "Daniel Murphy",
+    "dob": "1974-01-06",
+    "preferred_language": "English",
+    "region": "Eastvale",
+    "contact": {
+      "phone": "+00 555 7529 560",
+      "email": "daniel.murphy@example.org"
+    },
+    "partner": {
+      "name": "Lukas Murphy",
+      "dob": "1977-01-16",
+      "status": "partnered",
+      "employment_status": "unemployed"
+    },
+    "children": [
+      {
+        "name": "Kofi Murphy",
+        "dob": "2018-04-16"
+      }
+    ],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 72000,
+    "savings": 1200,
+    "tenure": "rent",
+    "rent_monthly": 1250,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [
+      "CB"
+    ],
+    "consent_proactive_contact": true,
+    "record_updated": "2024-08-03"
+  },
+  {
+    "id": "C-1118",
+    "full_name": "Kwame Reid",
+    "dob": "1981-09-12",
+    "preferred_language": "Arabic",
+    "region": "Highmoor",
+    "contact": {
+      "phone": "+00 555 5055 277",
+      "email": "kwame.reid@example.org"
+    },
+    "partner": {
+      "name": "Hamza Reid",
+      "dob": "1981-04-12",
+      "status": "partnered",
+      "employment_status": "employed"
+    },
+    "children": [
+      {
+        "name": "Zainab Reid",
+        "dob": "2018-01-12"
+      }
+    ],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 72000,
+    "savings": 8000,
+    "tenure": "rent",
+    "rent_monthly": 1150,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [
+      "CB"
+    ],
+    "consent_proactive_contact": true,
+    "record_updated": "2024-05-10"
+  },
+  {
+    "id": "C-1119",
+    "full_name": "Lukas Kim",
+    "dob": "1957-03-09",
+    "preferred_language": "Mandarin",
+    "region": "Northport",
+    "contact": {
+      "phone": "+00 555 5065 608",
+      "email": "lukas.kim@example.org"
+    },
+    "partner": {
+      "name": "Anna Kim",
+      "dob": "1959-06-15",
+      "status": "partnered",
+      "employment_status": "employed"
+    },
+    "children": [],
+    "employment_status": "retired",
+    "job_end_date": null,
+    "household_income_annual": 58000,
+    "savings": 1200,
+    "tenure": "rent",
+    "rent_monthly": 1150,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [],
+    "consent_proactive_contact": true,
+    "record_updated": "2026-05-22"
+  },
+  {
+    "id": "C-1120",
+    "full_name": "Elena Singh",
+    "dob": "1988-03-28",
+    "preferred_language": "English",
+    "region": "Highmoor",
+    "contact": {
+      "phone": "+00 555 8773 778",
+      "email": "elena.singh@example.org"
+    },
+    "partner": {
+      "name": "Noah Singh",
+      "dob": "1988-04-25",
+      "status": "partnered",
+      "employment_status": "unemployed"
+    },
+    "children": [
+      {
+        "name": "Fatima Singh",
+        "dob": "2014-04-27"
+      },
+      {
+        "name": "Aisha Singh",
+        "dob": "2011-08-04"
+      }
+    ],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 72000,
+    "savings": 1200,
+    "tenure": "social",
+    "rent_monthly": null,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [
+      "CB"
+    ],
+    "consent_proactive_contact": true,
+    "record_updated": "2026-02-03"
+  },
+  {
+    "id": "C-1121",
+    "full_name": "Hana Fischer",
+    "dob": "1967-03-25",
+    "preferred_language": "English",
+    "region": "Riverside",
+    "contact": {
+      "phone": "+00 555 7298 234",
+      "email": "hana.fischer@example.org"
+    },
+    "partner": {
+      "name": "Joon Fischer",
+      "dob": "1967-03-15",
+      "status": "partnered",
+      "employment_status": "unemployed"
+    },
+    "children": [],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 50000,
+    "savings": 22000,
+    "tenure": "own",
+    "rent_monthly": null,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [],
+    "consent_proactive_contact": true,
+    "record_updated": "2026-07-04"
+  },
+  {
+    "id": "C-1122",
+    "full_name": "Priya Lopez",
+    "dob": "1973-04-30",
+    "preferred_language": "Spanish",
+    "region": "Southbay",
+    "contact": {
+      "phone": "+00 555 4979 387",
+      "email": "priya.lopez@example.org"
+    },
+    "partner": {
+      "name": "Ravi Lopez",
+      "dob": "1973-08-12",
+      "status": "partnered",
+      "employment_status": "employed"
+    },
+    "children": [
+      {
+        "name": "Leila Lopez",
+        "dob": "2017-02-23"
+      },
+      {
+        "name": "Minh Lopez",
+        "dob": "2026-10-20"
+      },
+      {
+        "name": "Ibrahim Lopez",
+        "dob": "2014-02-20"
+      }
+    ],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 39000,
+    "savings": 14000,
+    "tenure": "rent",
+    "rent_monthly": 850,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [
+      "NMG"
+    ],
+    "consent_proactive_contact": true,
+    "record_updated": "2025-10-02"
+  },
+  {
+    "id": "C-1123",
+    "full_name": "Samuel Costa",
+    "dob": "1976-09-04",
+    "preferred_language": "English",
+    "region": "Southbay",
+    "contact": {
+      "phone": "+00 555 3567 864",
+      "email": "samuel.costa@example.org"
+    },
+    "partner": null,
+    "children": [
+      {
+        "name": "Sofia Costa",
+        "dob": "2022-09-26"
+      }
+    ],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 26000,
+    "savings": null,
+    "tenure": "rent",
+    "rent_monthly": 1150,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [
+      "CB",
+      "HSB",
+      "ESA"
+    ],
+    "consent_proactive_contact": true,
+    "record_updated": "2026-06-17"
+  },
+  {
+    "id": "C-1124",
+    "full_name": "Minh Kowalski",
+    "dob": "1986-01-08",
+    "preferred_language": "English",
+    "region": "Eastvale",
+    "contact": {
+      "phone": "+00 555 2274 488",
+      "email": "minh.kowalski@example.org"
+    },
+    "partner": {
+      "name": "Joon Kowalski",
+      "dob": "1983-02-06",
+      "status": "partnered",
+      "employment_status": "unemployed"
+    },
+    "children": [
+      {
+        "name": "Clara Kowalski",
+        "dob": "2013-04-26"
+      },
+      {
+        "name": "Lukas Kowalski",
+        "dob": "2010-04-18"
+      },
+      {
+        "name": "Joon Kowalski",
+        "dob": "2022-05-18"
+      }
+    ],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 26000,
+    "savings": 22000,
+    "tenure": "rent",
+    "rent_monthly": 1150,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [
+      "ESA"
+    ],
+    "consent_proactive_contact": true,
+    "record_updated": "2026-07-07"
+  },
+  {
+    "id": "C-1125",
+    "full_name": "Yuki Moreau",
+    "dob": "1960-02-28",
+    "preferred_language": "English",
+    "region": "Riverside",
+    "contact": {
+      "phone": "+00 555 3123 567",
+      "email": "yuki.moreau@example.org"
+    },
+    "partner": {
+      "name": "Maya Moreau",
+      "dob": "1963-02-28",
+      "status": "partnered",
+      "employment_status": "employed"
+    },
+    "children": [],
+    "employment_status": "retired",
+    "job_end_date": null,
+    "household_income_annual": 21000,
+    "savings": 3500,
+    "tenure": "own",
+    "rent_monthly": null,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [],
+    "consent_proactive_contact": true,
+    "record_updated": "2026-08-26"
+  },
+  {
+    "id": "C-1126",
+    "full_name": "Liam Larsen",
+    "dob": "1960-07-26",
+    "preferred_language": "Arabic",
+    "region": "Northport",
+    "contact": {
+      "phone": "+00 555 7716 987",
+      "email": "liam.larsen@example.org"
+    },
+    "partner": null,
+    "children": [],
+    "employment_status": "retired",
+    "job_end_date": null,
+    "household_income_annual": 28000,
+    "savings": 3500,
+    "tenure": "social",
+    "rent_monthly": null,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [],
+    "consent_proactive_contact": true,
+    "record_updated": "2025-10-21"
+  },
+  {
+    "id": "C-1127",
+    "full_name": "Liam Okafor",
+    "dob": "1960-09-23",
+    "preferred_language": "English",
+    "region": "Westfield",
+    "contact": {
+      "phone": "+00 555 2456 330",
+      "email": "liam.okafor@example.org"
+    },
+    "partner": {
+      "name": "Aroha Okafor",
+      "dob": "1959-10-17",
+      "status": "partnered",
+      "employment_status": "employed"
+    },
+    "children": [],
+    "employment_status": "retired",
+    "job_end_date": null,
+    "household_income_annual": null,
+    "savings": null,
+    "tenure": "social",
+    "rent_monthly": null,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [],
+    "consent_proactive_contact": true,
+    "record_updated": "2025-10-25"
+  },
+  {
+    "id": "C-1128",
+    "full_name": "Anna Ali",
+    "dob": "1960-07-25",
+    "preferred_language": "Vietnamese",
+    "region": "Northport",
+    "contact": {
+      "phone": "+00 555 2878 364",
+      "email": "anna.ali@example.org"
+    },
+    "partner": null,
+    "children": [],
+    "employment_status": "retired",
+    "job_end_date": null,
+    "household_income_annual": 41000,
+    "savings": null,
+    "tenure": "own",
+    "rent_monthly": null,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [],
+    "consent_proactive_contact": true,
+    "record_updated": "2025-04-01"
+  },
+  {
+    "id": "C-1129",
+    "full_name": "Fatima Reid",
+    "dob": "1960-09-08",
+    "preferred_language": "Hindi",
+    "region": "Eastvale",
+    "contact": {
+      "phone": "+00 555 6667 538",
+      "email": "fatima.reid@example.org"
+    },
+    "partner": {
+      "name": "Mei Reid",
+      "dob": "1956-02-19",
+      "status": "partnered",
+      "employment_status": "unemployed"
+    },
+    "children": [],
+    "employment_status": "retired",
+    "job_end_date": null,
+    "household_income_annual": 52000,
+    "savings": 1200,
+    "tenure": "rent",
+    "rent_monthly": 1400,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [],
+    "consent_proactive_contact": true,
+    "record_updated": "2025-03-30"
+  },
+  {
+    "id": "C-1130",
+    "full_name": "Maya Silva",
+    "dob": "1980-03-30",
+    "preferred_language": "English",
+    "region": "Northport",
+    "contact": {
+      "phone": "+00 555 5560 212",
+      "email": "maya.silva@example.org"
+    },
+    "partner": null,
+    "children": [
+      {
+        "name": "Chloe Silva",
+        "dob": "2024-06-27"
+      },
+      {
+        "name": "Kwame Silva",
+        "dob": "2016-09-02"
+      }
+    ],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 19000,
+    "savings": 8000,
+    "tenure": "rent",
+    "rent_monthly": 950,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [
+      "CB",
+      "HSB",
+      "ESA",
+      "SCH"
+    ],
+    "consent_proactive_contact": true,
+    "record_updated": "2024-12-29"
+  },
+  {
+    "id": "C-1131",
+    "full_name": "Hana Yilmaz",
+    "dob": "1969-02-13",
+    "preferred_language": "Spanish",
+    "region": "Northport",
+    "contact": {
+      "phone": "+00 555 5753 820",
+      "email": "hana.yilmaz@example.org"
+    },
+    "partner": null,
+    "children": [],
+    "employment_status": "student",
+    "job_end_date": null,
+    "household_income_annual": 19000,
+    "savings": 1200,
+    "tenure": "rent",
+    "rent_monthly": 950,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [
+      "HSB",
+      "ESA"
+    ],
+    "consent_proactive_contact": true,
+    "record_updated": "2025-01-01"
+  },
+  {
+    "id": "C-1132",
+    "full_name": "Samuel Torres",
+    "dob": "1989-06-25",
+    "preferred_language": "Vietnamese",
+    "region": "Highmoor",
+    "contact": {
+      "phone": "+00 555 1006 470",
+      "email": "samuel.torres@example.org"
+    },
+    "partner": null,
+    "children": [],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 19000,
+    "savings": 22000,
+    "tenure": "rent",
+    "rent_monthly": 950,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [
+      "HSB",
+      "ESA"
+    ],
+    "consent_proactive_contact": true,
+    "record_updated": "2026-03-05"
+  },
+  {
+    "id": "C-1133",
+    "full_name": "Tomasz Silva",
+    "dob": "1975-09-04",
+    "preferred_language": "English",
+    "region": "Westfield",
+    "contact": {
+      "phone": "+00 555 7293 915",
+      "email": "tomasz.silva@example.org"
+    },
+    "partner": {
+      "name": "Lucia Silva",
+      "dob": "1975-08-14",
+      "status": "partnered",
+      "employment_status": "employed"
+    },
+    "children": [
+      {
+        "name": "Vera Silva",
+        "dob": "2020-06-07"
+      }
+    ],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 44000,
+    "savings": 14000,
+    "tenure": "rent",
+    "rent_monthly": 950,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [],
+    "consent_proactive_contact": true,
+    "record_updated": "2025-05-26"
+  },
+  {
+    "id": "C-1134",
+    "full_name": "Lukas Mensah",
+    "dob": "1997-04-03",
+    "preferred_language": "Spanish",
+    "region": "Riverside",
+    "contact": {
+      "phone": "+00 555 6676 376",
+      "email": "lukas.mensah@example.org"
+    },
+    "partner": null,
+    "children": [
+      {
+        "name": "Marco Mensah",
+        "dob": "2020-06-06"
+      }
+    ],
+    "employment_status": "unemployed",
+    "job_end_date": null,
+    "household_income_annual": 44000,
+    "savings": 14000,
+    "tenure": "rent",
+    "rent_monthly": 950,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [
+      "CB"
+    ],
+    "consent_proactive_contact": true,
+    "record_updated": "2026-04-15"
+  },
+  {
+    "id": "C-1135",
+    "full_name": "Maya Kim",
+    "dob": "1976-05-03",
+    "preferred_language": "English",
+    "region": "Northport",
+    "contact": {
+      "phone": "+00 555 2158 114",
+      "email": "maya.kim@example.org"
+    },
+    "partner": {
+      "name": "Ahmed Kim",
+      "dob": "1973-06-16",
+      "status": "partnered",
+      "employment_status": "employed"
+    },
+    "children": [],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 19000,
+    "savings": 1200,
+    "tenure": "rent",
+    "rent_monthly": 950,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [
+      "HSB",
+      "ESA"
+    ],
+    "consent_proactive_contact": true,
+    "record_updated": "2024-08-18"
+  },
+  {
+    "id": "C-1136",
+    "full_name": "Hamza Haddad",
+    "dob": "1988-07-24",
+    "preferred_language": "English",
+    "region": "Northport",
+    "contact": {
+      "phone": "+00 555 7624 491",
+      "email": "hamza.haddad@example.org"
+    },
+    "partner": {
+      "name": "Daniel Haddad",
+      "dob": "1992-03-08",
+      "status": "partnered",
+      "employment_status": "employed"
+    },
+    "children": [
+      {
+        "name": "Isabel Haddad",
+        "dob": "2025-05-08"
+      },
+      {
+        "name": "Yuki Haddad",
+        "dob": "2017-06-27"
+      }
+    ],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 72000,
+    "savings": 8000,
+    "tenure": "rent",
+    "rent_monthly": 1400,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [],
+    "consent_proactive_contact": true,
+    "record_updated": "2024-08-15"
+  },
+  {
+    "id": "C-1137",
+    "full_name": "Omar Torres",
+    "dob": "1991-06-03",
+    "preferred_language": "English",
+    "region": "Northport",
+    "contact": {
+      "phone": "+00 555 9874 162",
+      "email": "omar.torres@example.org"
+    },
+    "partner": {
+      "name": "Minh Torres",
+      "dob": "1989-05-12",
+      "status": "partnered",
+      "employment_status": "employed"
+    },
+    "children": [
+      {
+        "name": "Liam Torres",
+        "dob": "2022-01-06"
+      }
+    ],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 72000,
+    "savings": null,
+    "tenure": "rent",
+    "rent_monthly": 1050,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [
+      "CB"
+    ],
+    "consent_proactive_contact": false,
+    "record_updated": "2025-06-26"
+  },
+  {
+    "id": "C-1138",
+    "full_name": "Hamza Patel",
+    "dob": "1995-09-23",
+    "preferred_language": "Arabic",
+    "region": "Eastvale",
+    "contact": {
+      "phone": "+00 555 9444 655",
+      "email": "hamza.patel@example.org"
+    },
+    "partner": {
+      "name": "Mateo Patel",
+      "dob": "1997-07-08",
+      "status": "partnered",
+      "employment_status": "employed"
+    },
+    "children": [
+      {
+        "name": "Esther Patel",
+        "dob": "2023-12-31"
+      },
+      {
+        "name": "Tariq Patel",
+        "dob": "2020-06-06"
+      }
+    ],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 72000,
+    "savings": 1200,
+    "tenure": "rent",
+    "rent_monthly": 850,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [],
+    "consent_proactive_contact": true,
+    "record_updated": "2025-04-30"
+  },
+  {
+    "id": "C-1139",
+    "full_name": "Clara Silva",
+    "dob": "1991-07-28",
+    "preferred_language": "Hindi",
+    "region": "Riverside",
+    "contact": {
+      "phone": "+00 555 3866 966",
+      "email": "clara.silva@example.org"
+    },
+    "partner": null,
+    "children": [],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 29000,
+    "savings": 3500,
+    "tenure": "social",
+    "rent_monthly": null,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [],
+    "consent_proactive_contact": true,
+    "record_updated": "2025-02-24"
+  },
+  {
+    "id": "C-1140",
+    "full_name": "Amara Yilmaz",
+    "dob": "1971-07-07",
+    "preferred_language": "English",
+    "region": "Southbay",
+    "contact": {
+      "phone": "+00 555 8344 836",
+      "email": "amara.yilmaz@example.org"
+    },
+    "partner": {
+      "name": "Rosa Yilmaz",
+      "dob": "1975-03-20",
+      "status": "partnered",
+      "employment_status": "employed"
+    },
+    "children": [],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 41000,
+    "savings": 14000,
+    "tenure": "social",
+    "rent_monthly": null,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [],
+    "consent_proactive_contact": true,
+    "record_updated": "2026-06-07"
+  },
+  {
+    "id": "C-1141",
+    "full_name": "Arjun Yilmaz",
+    "dob": "1976-07-11",
+    "preferred_language": "English",
+    "region": "Southbay",
+    "contact": {
+      "phone": "+00 555 1773 667",
+      "email": "arjun.yilmaz@example.org"
+    },
+    "partner": {
+      "name": "Arjun Yilmaz",
+      "dob": "1972-04-25",
+      "status": "partnered",
+      "employment_status": "employed"
+    },
+    "children": [
+      {
+        "name": "Omar Yilmaz",
+        "dob": "2012-07-11"
+      }
+    ],
+    "employment_status": "employed",
+    "job_end_date": null,
+    "household_income_annual": 41000,
+    "savings": 1200,
+    "tenure": "own",
+    "rent_monthly": null,
+    "disability_unable_to_work": false,
+    "care_hours_weekly": 0,
+    "partner_care_hours_weekly": 0,
+    "childcare_fees_monthly": null,
+    "enrolled": [],
+    "consent_proactive_contact": true,
+    "record_updated": "2026-08-05"
+  }
+]

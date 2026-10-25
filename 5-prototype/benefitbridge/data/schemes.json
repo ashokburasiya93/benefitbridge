@@ -1,0 +1,200 @@
+[
+  {
+    "id": "CB",
+    "name": "Child Benefit",
+    "type": "monthly",
+    "means_tested": false,
+    "discretionary": false,
+    "summary": "$95 a month for each child under 16.",
+    "clauses": {
+      "CB-1": "A household is eligible for each child under the age of 16 who lives in the household.",
+      "CB-2": "The payment is $95 per eligible child per month.",
+      "CB-3": "Child Benefit is not means-tested."
+    },
+    "documents": [
+      "Child's birth registration number"
+    ]
+  },
+  {
+    "id": "NMG",
+    "name": "New Mother and Baby Grant",
+    "type": "one-off",
+    "means_tested": true,
+    "discretionary": false,
+    "summary": "$600 one-off payment for a new baby, household income under $45,000.",
+    "clauses": {
+      "NMG-1": "A household is eligible where a child was born within the last 90 days.",
+      "NMG-2": "Annual household income must be below $45,000.",
+      "NMG-3": "The grant is a one-off payment of $600 per child born."
+    },
+    "documents": [
+      "Child's birth registration number",
+      "Proof of household income"
+    ]
+  },
+  {
+    "id": "JSA",
+    "name": "Jobseeker Allowance",
+    "type": "monthly",
+    "means_tested": true,
+    "discretionary": false,
+    "summary": "$1,150 a month for up to 9 months for people aged 18 to 65 who lost work.",
+    "clauses": {
+      "JSA-1": "The applicant must be aged 18 to 65 and currently unemployed.",
+      "JSA-2": "The applicant's employment must have ended within the last 12 months.",
+      "JSA-3": "Annual household income from all other sources must be below $40,000.",
+      "JSA-4": "Savings must be below $15,000.",
+      "JSA-5": "The payment is $1,150 per month for up to 9 months."
+    },
+    "documents": [
+      "Employer separation notice",
+      "Bank statement showing savings"
+    ]
+  },
+  {
+    "id": "HSB",
+    "name": "Housing Support Benefit",
+    "type": "monthly",
+    "means_tested": true,
+    "discretionary": false,
+    "summary": "Up to $400 a month for private renters paying over 30% of income in rent.",
+    "clauses": {
+      "HSB-1": "The household must rent its home privately (social housing tenants are not eligible).",
+      "HSB-2": "Annual household income must be below $40,000.",
+      "HSB-3": "Annual rent must be more than 30% of annual household income.",
+      "HSB-4": "The payment is the monthly rent above 30% of monthly income, capped at $400 per month."
+    },
+    "documents": [
+      "Tenancy agreement",
+      "Proof of household income"
+    ]
+  },
+  {
+    "id": "CAR",
+    "name": "Carer Allowance",
+    "type": "monthly",
+    "means_tested": false,
+    "discretionary": false,
+    "summary": "$320 a month for people giving 20+ hours of care a week.",
+    "clauses": {
+      "CAR-1": "The applicant must provide at least 20 hours of care per week to a person with a disability or long-term illness.",
+      "CAR-2": "The payment is $320 per month."
+    },
+    "documents": [
+      "Statement from the cared-for person's doctor"
+    ]
+  },
+  {
+    "id": "DSP",
+    "name": "Disability Support Payment",
+    "type": "monthly",
+    "means_tested": false,
+    "discretionary": true,
+    "summary": "$1,250 a month; needs a medical assessment by an assessor.",
+    "clauses": {
+      "DSP-1": "The applicant must be unable to work 15 or more hours a week for at least 6 months because of a disability or illness.",
+      "DSP-2": "Eligibility is decided only after an independent medical assessment.",
+      "DSP-3": "The payment is $1,250 per month."
+    },
+    "documents": [
+      "Medical evidence",
+      "Assessment appointment"
+    ]
+  },
+  {
+    "id": "AGP",
+    "name": "Age Pension",
+    "type": "monthly",
+    "means_tested": true,
+    "discretionary": false,
+    "summary": "$1,050 a month from age 66, income under $30,000 single or $45,000 couple.",
+    "clauses": {
+      "AGP-1": "The applicant must be aged 66 or over.",
+      "AGP-2": "Annual household income must be below $30,000 for a single person or $45,000 for a couple.",
+      "AGP-3": "The payment is $1,050 per month."
+    },
+    "documents": [
+      "Proof of age",
+      "Proof of household income"
+    ]
+  },
+  {
+    "id": "BSP",
+    "name": "Bereavement Support Payment",
+    "type": "mixed",
+    "means_tested": false,
+    "discretionary": false,
+    "summary": "$2,500 one-off, plus $350 a month for 12 months with children under 16.",
+    "clauses": {
+      "BSP-1": "The applicant's spouse or partner must have died within the last 12 months.",
+      "BSP-2": "The applicant must be under 66.",
+      "BSP-3": "A one-off payment of $2,500 is made.",
+      "BSP-4": "Where the applicant has a child under 16, an additional $350 per month is paid for 12 months."
+    },
+    "documents": [
+      "Death registration number"
+    ]
+  },
+  {
+    "id": "ESA",
+    "name": "Winter Energy Assistance",
+    "type": "annual",
+    "means_tested": true,
+    "discretionary": false,
+    "summary": "$250 a year for low-income households or people on JSA, DSP or Age Pension.",
+    "clauses": {
+      "ESA-1": "A household is eligible if annual household income is below $28,000.",
+      "ESA-2": "A household is also eligible if anyone in it receives or is eligible for Jobseeker Allowance or Age Pension.",
+      "ESA-3": "The payment is $250 per year."
+    },
+    "documents": []
+  },
+  {
+    "id": "SCH",
+    "name": "School Meals and Uniform Support",
+    "type": "annual",
+    "means_tested": true,
+    "discretionary": false,
+    "summary": "$300 a year per child aged 5 to 17, income under $35,000.",
+    "clauses": {
+      "SCH-1": "A household is eligible for each child aged 5 to 17.",
+      "SCH-2": "Annual household income must be below $35,000.",
+      "SCH-3": "The payment is $300 per eligible child per year."
+    },
+    "documents": [
+      "School enrolment confirmation"
+    ]
+  },
+  {
+    "id": "CCS",
+    "name": "Childcare Subsidy",
+    "type": "monthly",
+    "means_tested": true,
+    "discretionary": false,
+    "summary": "60% of childcare fees for children under 6 where all adults work, income under $90,000.",
+    "clauses": {
+      "CCS-1": "A household is eligible where it has a child under 6.",
+      "CCS-2": "Every adult in the household must be employed.",
+      "CCS-3": "Annual household income must be below $90,000.",
+      "CCS-4": "The subsidy is 60% of monthly childcare fees, capped at $900 per month."
+    },
+    "documents": [
+      "Childcare provider invoice"
+    ]
+  },
+  {
+    "id": "EHG",
+    "name": "Emergency Hardship Grant",
+    "type": "one-off",
+    "means_tested": true,
+    "discretionary": true,
+    "summary": "Discretionary one-off help in a crisis; a caseworker decides.",
+    "clauses": {
+      "EHG-1": "A caseworker may award up to $1,000 where a household faces an immediate crisis such as eviction, utilities being cut off or no money for food.",
+      "EHG-2": "Awards are at the caseworker's discretion and are never automatic."
+    },
+    "documents": [
+      "Caseworker assessment"
+    ]
+  }
+]

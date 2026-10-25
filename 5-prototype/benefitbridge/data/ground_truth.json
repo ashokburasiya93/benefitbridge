@@ -1,0 +1,734 @@
+[
+  {
+    "event_id": "E-2001",
+    "expected_facts": [
+      {
+        "field": "household_income_annual",
+        "value": 70000
+      }
+    ],
+    "eligible": [],
+    "needs_info": [],
+    "route": []
+  },
+  {
+    "event_id": "E-2002",
+    "expected_facts": [],
+    "eligible": [
+      "CB",
+      "NMG"
+    ],
+    "needs_info": [],
+    "route": []
+  },
+  {
+    "event_id": "E-2003",
+    "expected_facts": [
+      {
+        "field": "household_income_annual",
+        "value": 24000
+      }
+    ],
+    "eligible": [
+      "NMG"
+    ],
+    "needs_info": [
+      "CCS"
+    ],
+    "route": []
+  },
+  {
+    "event_id": "E-2004",
+    "expected_facts": [],
+    "eligible": [
+      "CB",
+      "NMG"
+    ],
+    "needs_info": [
+      "CCS"
+    ],
+    "route": []
+  },
+  {
+    "event_id": "E-2005",
+    "expected_facts": [
+      {
+        "field": "household_income_annual",
+        "value": 31000
+      }
+    ],
+    "eligible": [
+      "NMG"
+    ],
+    "needs_info": [
+      "CCS"
+    ],
+    "route": []
+  },
+  {
+    "event_id": "E-2006",
+    "expected_facts": [],
+    "eligible": [
+      "NMG"
+    ],
+    "needs_info": [],
+    "route": []
+  },
+  {
+    "event_id": "E-2007",
+    "expected_facts": [
+      {
+        "field": "employment_status",
+        "value": "unemployed"
+      },
+      {
+        "field": "job_end_date",
+        "value": "2026-10-12"
+      },
+      {
+        "field": "household_income_annual",
+        "value": 33000
+      },
+      {
+        "field": "savings",
+        "value": 9000
+      }
+    ],
+    "eligible": [
+      "JSA",
+      "HSB",
+      "ESA",
+      "SCH"
+    ],
+    "needs_info": [],
+    "route": []
+  },
+  {
+    "event_id": "E-2008",
+    "expected_facts": [
+      {
+        "field": "employment_status",
+        "value": "unemployed"
+      },
+      {
+        "field": "job_end_date",
+        "value": "2026-09-11"
+      },
+      {
+        "field": "household_income_annual",
+        "value": 14000
+      },
+      {
+        "field": "savings",
+        "value": 4000
+      }
+    ],
+    "eligible": [
+      "JSA",
+      "HSB",
+      "ESA"
+    ],
+    "needs_info": [],
+    "route": []
+  },
+  {
+    "event_id": "E-2009",
+    "expected_facts": [
+      {
+        "field": "employment_status",
+        "value": "unemployed"
+      },
+      {
+        "field": "job_end_date",
+        "value": "2026-10-05"
+      },
+      {
+        "field": "household_income_annual",
+        "value": 14000
+      },
+      {
+        "field": "savings",
+        "value": 4000
+      }
+    ],
+    "eligible": [
+      "JSA",
+      "ESA"
+    ],
+    "needs_info": [],
+    "route": []
+  },
+  {
+    "event_id": "E-2010",
+    "expected_facts": [
+      {
+        "field": "employment_status",
+        "value": "unemployed"
+      },
+      {
+        "field": "job_end_date",
+        "value": "2026-10-02"
+      }
+    ],
+    "eligible": [],
+    "needs_info": [],
+    "route": []
+  },
+  {
+    "event_id": "E-2011",
+    "expected_facts": [
+      {
+        "field": "employment_status",
+        "value": "unemployed"
+      },
+      {
+        "field": "job_end_date",
+        "value": "2026-10-12"
+      },
+      {
+        "field": "household_income_annual",
+        "value": 45000
+      },
+      {
+        "field": "savings",
+        "value": 9000
+      }
+    ],
+    "eligible": [],
+    "needs_info": [],
+    "route": []
+  },
+  {
+    "event_id": "E-2012",
+    "expected_facts": [
+      {
+        "field": "employment_status",
+        "value": "unemployed"
+      },
+      {
+        "field": "job_end_date",
+        "value": "2026-09-14"
+      },
+      {
+        "field": "household_income_annual",
+        "value": 0
+      },
+      {
+        "field": "savings",
+        "value": 1500
+      }
+    ],
+    "eligible": [
+      "JSA",
+      "HSB",
+      "ESA",
+      "SCH"
+    ],
+    "needs_info": [],
+    "route": []
+  },
+  {
+    "event_id": "E-2013",
+    "expected_facts": [
+      {
+        "field": "employment_status",
+        "value": "unemployed"
+      },
+      {
+        "field": "job_end_date",
+        "value": "2026-09-27"
+      }
+    ],
+    "eligible": [],
+    "needs_info": [],
+    "route": []
+  },
+  {
+    "event_id": "E-2014",
+    "expected_facts": [
+      {
+        "field": "employment_status",
+        "value": "unemployed"
+      },
+      {
+        "field": "job_end_date",
+        "value": "2026-09-12"
+      },
+      {
+        "field": "household_income_annual",
+        "value": 14000
+      },
+      {
+        "field": "savings",
+        "value": 9000
+      }
+    ],
+    "eligible": [
+      "JSA",
+      "HSB",
+      "ESA"
+    ],
+    "needs_info": [],
+    "route": []
+  },
+  {
+    "event_id": "E-2015",
+    "expected_facts": [
+      {
+        "field": "partner_status",
+        "value": "widowed"
+      },
+      {
+        "field": "partner_death_date",
+        "value": "2026-10-08"
+      }
+    ],
+    "eligible": [
+      "BSP"
+    ],
+    "needs_info": [],
+    "route": []
+  },
+  {
+    "event_id": "E-2016",
+    "expected_facts": [
+      {
+        "field": "partner_status",
+        "value": "widowed"
+      },
+      {
+        "field": "partner_death_date",
+        "value": "2026-10-08"
+      },
+      {
+        "field": "household_income_annual",
+        "value": 26000
+      }
+    ],
+    "eligible": [
+      "HSB",
+      "BSP",
+      "ESA",
+      "SCH"
+    ],
+    "needs_info": [],
+    "route": []
+  },
+  {
+    "event_id": "E-2017",
+    "expected_facts": [
+      {
+        "field": "partner_status",
+        "value": "widowed"
+      },
+      {
+        "field": "partner_death_date",
+        "value": "2026-09-28"
+      }
+    ],
+    "eligible": [
+      "BSP"
+    ],
+    "needs_info": [],
+    "route": []
+  },
+  {
+    "event_id": "E-2018",
+    "expected_facts": [
+      {
+        "field": "partner_status",
+        "value": "widowed"
+      },
+      {
+        "field": "partner_death_date",
+        "value": "2026-10-16"
+      },
+      {
+        "field": "household_income_annual",
+        "value": 26000
+      }
+    ],
+    "eligible": [
+      "HSB",
+      "AGP",
+      "ESA"
+    ],
+    "needs_info": [],
+    "route": []
+  },
+  {
+    "event_id": "E-2019",
+    "expected_facts": [
+      {
+        "field": "partner_status",
+        "value": "widowed"
+      },
+      {
+        "field": "partner_death_date",
+        "value": "2026-10-17"
+      }
+    ],
+    "eligible": [
+      "BSP"
+    ],
+    "needs_info": [],
+    "route": []
+  },
+  {
+    "event_id": "E-2020",
+    "expected_facts": [
+      {
+        "field": "disability_unable_to_work",
+        "value": true
+      },
+      {
+        "field": "partner_care_hours_weekly",
+        "value": 25
+      }
+    ],
+    "eligible": [
+      "CAR"
+    ],
+    "needs_info": [],
+    "route": [
+      "DSP"
+    ]
+  },
+  {
+    "event_id": "E-2021",
+    "expected_facts": [
+      {
+        "field": "disability_unable_to_work",
+        "value": true
+      },
+      {
+        "field": "partner_care_hours_weekly",
+        "value": 25
+      }
+    ],
+    "eligible": [
+      "CB",
+      "CAR"
+    ],
+    "needs_info": [],
+    "route": [
+      "DSP"
+    ]
+  },
+  {
+    "event_id": "E-2022",
+    "expected_facts": [
+      {
+        "field": "disability_unable_to_work",
+        "value": true
+      }
+    ],
+    "eligible": [],
+    "needs_info": [],
+    "route": [
+      "DSP"
+    ]
+  },
+  {
+    "event_id": "E-2023",
+    "expected_facts": [
+      {
+        "field": "disability_unable_to_work",
+        "value": true
+      },
+      {
+        "field": "partner_care_hours_weekly",
+        "value": 35
+      }
+    ],
+    "eligible": [
+      "CB",
+      "HSB",
+      "CAR",
+      "SCH"
+    ],
+    "needs_info": [],
+    "route": [
+      "DSP"
+    ]
+  },
+  {
+    "event_id": "E-2024",
+    "expected_facts": [],
+    "eligible": [
+      "AGP",
+      "ESA"
+    ],
+    "needs_info": [],
+    "route": []
+  },
+  {
+    "event_id": "E-2025",
+    "expected_facts": [],
+    "eligible": [
+      "AGP",
+      "ESA"
+    ],
+    "needs_info": [],
+    "route": []
+  },
+  {
+    "event_id": "E-2026",
+    "expected_facts": [],
+    "eligible": [],
+    "needs_info": [
+      "AGP",
+      "ESA"
+    ],
+    "route": []
+  },
+  {
+    "event_id": "E-2027",
+    "expected_facts": [],
+    "eligible": [],
+    "needs_info": [],
+    "route": []
+  },
+  {
+    "event_id": "E-2028",
+    "expected_facts": [],
+    "eligible": [],
+    "needs_info": [],
+    "route": []
+  },
+  {
+    "event_id": "E-2029",
+    "expected_facts": [
+      {
+        "field": "rent_monthly",
+        "value": 1150
+      },
+      {
+        "field": "tenure",
+        "value": "rent"
+      },
+      {
+        "field": "hardship_flag",
+        "value": true
+      }
+    ],
+    "eligible": [],
+    "needs_info": [
+      "CCS"
+    ],
+    "route": [
+      "EHG"
+    ]
+  },
+  {
+    "event_id": "E-2030",
+    "expected_facts": [
+      {
+        "field": "rent_monthly",
+        "value": 1350
+      },
+      {
+        "field": "tenure",
+        "value": "rent"
+      }
+    ],
+    "eligible": [],
+    "needs_info": [],
+    "route": []
+  },
+  {
+    "event_id": "E-2031",
+    "expected_facts": [
+      {
+        "field": "rent_monthly",
+        "value": 1150
+      },
+      {
+        "field": "tenure",
+        "value": "rent"
+      }
+    ],
+    "eligible": [],
+    "needs_info": [],
+    "route": []
+  },
+  {
+    "event_id": "E-2032",
+    "expected_facts": [
+      {
+        "field": "rent_monthly",
+        "value": 1150
+      },
+      {
+        "field": "tenure",
+        "value": "rent"
+      }
+    ],
+    "eligible": [
+      "CB"
+    ],
+    "needs_info": [],
+    "route": []
+  },
+  {
+    "event_id": "E-2033",
+    "expected_facts": [
+      {
+        "field": "rent_monthly",
+        "value": 1250
+      },
+      {
+        "field": "tenure",
+        "value": "rent"
+      },
+      {
+        "field": "hardship_flag",
+        "value": true
+      }
+    ],
+    "eligible": [],
+    "needs_info": [],
+    "route": [
+      "EHG"
+    ]
+  },
+  {
+    "event_id": "E-2034",
+    "expected_facts": [
+      {
+        "field": "rent_monthly",
+        "value": 1150
+      },
+      {
+        "field": "tenure",
+        "value": "rent"
+      }
+    ],
+    "eligible": [],
+    "needs_info": [],
+    "route": []
+  },
+  {
+    "event_id": "E-2035",
+    "expected_facts": [
+      {
+        "field": "partner_status",
+        "value": "separated"
+      },
+      {
+        "field": "household_income_annual",
+        "value": 38000
+      },
+      {
+        "field": "employment_status",
+        "value": "employed"
+      },
+      {
+        "field": "childcare_fees_monthly",
+        "value": 800
+      }
+    ],
+    "eligible": [
+      "CB",
+      "HSB",
+      "CCS"
+    ],
+    "needs_info": [],
+    "route": []
+  },
+  {
+    "event_id": "E-2036",
+    "expected_facts": [
+      {
+        "field": "partner_status",
+        "value": "separated"
+      },
+      {
+        "field": "household_income_annual",
+        "value": 31000
+      },
+      {
+        "field": "employment_status",
+        "value": "employed"
+      },
+      {
+        "field": "childcare_fees_monthly",
+        "value": 650
+      }
+    ],
+    "eligible": [
+      "HSB",
+      "CCS"
+    ],
+    "needs_info": [],
+    "route": []
+  },
+  {
+    "event_id": "E-2037",
+    "expected_facts": [
+      {
+        "field": "partner_status",
+        "value": "separated"
+      },
+      {
+        "field": "household_income_annual",
+        "value": 46000
+      },
+      {
+        "field": "employment_status",
+        "value": "employed"
+      },
+      {
+        "field": "childcare_fees_monthly",
+        "value": 800
+      }
+    ],
+    "eligible": [
+      "CB",
+      "CCS"
+    ],
+    "needs_info": [],
+    "route": []
+  },
+  {
+    "event_id": "E-2038",
+    "expected_facts": [
+      {
+        "field": "care_hours_weekly",
+        "value": 30
+      }
+    ],
+    "eligible": [
+      "CAR"
+    ],
+    "needs_info": [],
+    "route": []
+  },
+  {
+    "event_id": "E-2039",
+    "expected_facts": [
+      {
+        "field": "care_hours_weekly",
+        "value": 15
+      }
+    ],
+    "eligible": [],
+    "needs_info": [],
+    "route": []
+  },
+  {
+    "event_id": "E-2040",
+    "expected_facts": [
+      {
+        "field": "care_hours_weekly",
+        "value": 22
+      }
+    ],
+    "eligible": [
+      "CB",
+      "CAR"
+    ],
+    "needs_info": [],
+    "route": []
+  }
+]

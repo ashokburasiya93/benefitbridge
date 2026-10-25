@@ -1,0 +1,2562 @@
+[
+  {
+    "event_type": "disability",
+    "event_date": "2026-03-16",
+    "schemes_entitled": 2,
+    "schemes_claimed": 2,
+    "days_to_first_claim": 77,
+    "annual_value_entitled": 4800
+  },
+  {
+    "event_type": "separation",
+    "event_date": "2026-03-19",
+    "schemes_entitled": 3,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 27000
+  },
+  {
+    "event_type": "job_loss",
+    "event_date": "2026-02-14",
+    "schemes_entitled": 4,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 24000
+  },
+  {
+    "event_type": "bereavement",
+    "event_date": "2026-03-29",
+    "schemes_entitled": 2,
+    "schemes_claimed": 2,
+    "days_to_first_claim": 29,
+    "annual_value_entitled": 18000
+  },
+  {
+    "event_type": "birth",
+    "event_date": "2026-05-09",
+    "schemes_entitled": 3,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 11400
+  },
+  {
+    "event_type": "disability",
+    "event_date": "2025-10-12",
+    "schemes_entitled": 1,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 133,
+    "annual_value_entitled": 3800
+  },
+  {
+    "event_type": "bereavement",
+    "event_date": "2026-04-26",
+    "schemes_entitled": 4,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 4800
+  },
+  {
+    "event_type": "housing_cost",
+    "event_date": "2026-02-06",
+    "schemes_entitled": 4,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 82,
+    "annual_value_entitled": 24000
+  },
+  {
+    "event_type": "birth",
+    "event_date": "2026-05-18",
+    "schemes_entitled": 3,
+    "schemes_claimed": 3,
+    "days_to_first_claim": 185,
+    "annual_value_entitled": 27000
+  },
+  {
+    "event_type": "caring",
+    "event_date": "2025-12-08",
+    "schemes_entitled": 4,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 54,
+    "annual_value_entitled": 4800
+  },
+  {
+    "event_type": "separation",
+    "event_date": "2025-07-13",
+    "schemes_entitled": 1,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 109,
+    "annual_value_entitled": 3800
+  },
+  {
+    "event_type": "birth",
+    "event_date": "2026-01-11",
+    "schemes_entitled": 4,
+    "schemes_claimed": 3,
+    "days_to_first_claim": 27,
+    "annual_value_entitled": 24000
+  },
+  {
+    "event_type": "bereavement",
+    "event_date": "2026-05-17",
+    "schemes_entitled": 3,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 20,
+    "annual_value_entitled": 3600
+  },
+  {
+    "event_type": "housing_cost",
+    "event_date": "2025-11-06",
+    "schemes_entitled": 3,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 3600
+  },
+  {
+    "event_type": "disability",
+    "event_date": "2025-08-06",
+    "schemes_entitled": 2,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 110,
+    "annual_value_entitled": 2400
+  },
+  {
+    "event_type": "separation",
+    "event_date": "2025-07-22",
+    "schemes_entitled": 1,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 1200
+  },
+  {
+    "event_type": "job_loss",
+    "event_date": "2026-06-01",
+    "schemes_entitled": 3,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 11400
+  },
+  {
+    "event_type": "caring",
+    "event_date": "2026-04-10",
+    "schemes_entitled": 1,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 2400
+  },
+  {
+    "event_type": "separation",
+    "event_date": "2025-07-03",
+    "schemes_entitled": 2,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 2400
+  },
+  {
+    "event_type": "job_loss",
+    "event_date": "2025-11-21",
+    "schemes_entitled": 4,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 9600
+  },
+  {
+    "event_type": "disability",
+    "event_date": "2026-01-22",
+    "schemes_entitled": 3,
+    "schemes_claimed": 2,
+    "days_to_first_claim": 167,
+    "annual_value_entitled": 11400
+  },
+  {
+    "event_type": "disability",
+    "event_date": "2025-12-21",
+    "schemes_entitled": 2,
+    "schemes_claimed": 2,
+    "days_to_first_claim": 4,
+    "annual_value_entitled": 12000
+  },
+  {
+    "event_type": "disability",
+    "event_date": "2026-02-11",
+    "schemes_entitled": 4,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 36000
+  },
+  {
+    "event_type": "caring",
+    "event_date": "2026-02-15",
+    "schemes_entitled": 2,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 119,
+    "annual_value_entitled": 2400
+  },
+  {
+    "event_type": "separation",
+    "event_date": "2026-06-05",
+    "schemes_entitled": 2,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 152,
+    "annual_value_entitled": 12000
+  },
+  {
+    "event_type": "birth",
+    "event_date": "2026-03-29",
+    "schemes_entitled": 2,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 169,
+    "annual_value_entitled": 12000
+  },
+  {
+    "event_type": "separation",
+    "event_date": "2025-09-01",
+    "schemes_entitled": 4,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 15200
+  },
+  {
+    "event_type": "bereavement",
+    "event_date": "2026-05-10",
+    "schemes_entitled": 1,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 120,
+    "annual_value_entitled": 2400
+  },
+  {
+    "event_type": "birth",
+    "event_date": "2026-05-12",
+    "schemes_entitled": 4,
+    "schemes_claimed": 4,
+    "days_to_first_claim": 173,
+    "annual_value_entitled": 36000
+  },
+  {
+    "event_type": "housing_cost",
+    "event_date": "2025-11-14",
+    "schemes_entitled": 1,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 78,
+    "annual_value_entitled": 9000
+  },
+  {
+    "event_type": "birth",
+    "event_date": "2026-02-09",
+    "schemes_entitled": 2,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 4800
+  },
+  {
+    "event_type": "separation",
+    "event_date": "2026-05-29",
+    "schemes_entitled": 1,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 13,
+    "annual_value_entitled": 9000
+  },
+  {
+    "event_type": "age_milestone",
+    "event_date": "2026-03-26",
+    "schemes_entitled": 2,
+    "schemes_claimed": 2,
+    "days_to_first_claim": 22,
+    "annual_value_entitled": 4800
+  },
+  {
+    "event_type": "housing_cost",
+    "event_date": "2026-01-03",
+    "schemes_entitled": 2,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 109,
+    "annual_value_entitled": 4800
+  },
+  {
+    "event_type": "bereavement",
+    "event_date": "2026-01-29",
+    "schemes_entitled": 3,
+    "schemes_claimed": 2,
+    "days_to_first_claim": 21,
+    "annual_value_entitled": 7200
+  },
+  {
+    "event_type": "age_milestone",
+    "event_date": "2025-11-05",
+    "schemes_entitled": 1,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 28,
+    "annual_value_entitled": 3800
+  },
+  {
+    "event_type": "housing_cost",
+    "event_date": "2025-07-26",
+    "schemes_entitled": 1,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 119,
+    "annual_value_entitled": 1200
+  },
+  {
+    "event_type": "job_loss",
+    "event_date": "2025-07-07",
+    "schemes_entitled": 3,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 27000
+  },
+  {
+    "event_type": "job_loss",
+    "event_date": "2025-12-08",
+    "schemes_entitled": 1,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 3800
+  },
+  {
+    "event_type": "separation",
+    "event_date": "2025-11-13",
+    "schemes_entitled": 3,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 39,
+    "annual_value_entitled": 11400
+  },
+  {
+    "event_type": "job_loss",
+    "event_date": "2026-02-01",
+    "schemes_entitled": 1,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 9000
+  },
+  {
+    "event_type": "separation",
+    "event_date": "2025-11-05",
+    "schemes_entitled": 1,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 29,
+    "annual_value_entitled": 6000
+  },
+  {
+    "event_type": "job_loss",
+    "event_date": "2025-10-13",
+    "schemes_entitled": 2,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 18000
+  },
+  {
+    "event_type": "disability",
+    "event_date": "2025-09-12",
+    "schemes_entitled": 2,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 7600
+  },
+  {
+    "event_type": "job_loss",
+    "event_date": "2025-12-23",
+    "schemes_entitled": 3,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 11400
+  },
+  {
+    "event_type": "separation",
+    "event_date": "2025-11-22",
+    "schemes_entitled": 3,
+    "schemes_claimed": 2,
+    "days_to_first_claim": 15,
+    "annual_value_entitled": 27000
+  },
+  {
+    "event_type": "disability",
+    "event_date": "2025-07-28",
+    "schemes_entitled": 1,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 169,
+    "annual_value_entitled": 1200
+  },
+  {
+    "event_type": "housing_cost",
+    "event_date": "2026-04-04",
+    "schemes_entitled": 1,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 6000
+  },
+  {
+    "event_type": "birth",
+    "event_date": "2026-01-21",
+    "schemes_entitled": 4,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 9600
+  },
+  {
+    "event_type": "job_loss",
+    "event_date": "2026-04-08",
+    "schemes_entitled": 2,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 18000
+  },
+  {
+    "event_type": "bereavement",
+    "event_date": "2026-03-16",
+    "schemes_entitled": 1,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 199,
+    "annual_value_entitled": 1200
+  },
+  {
+    "event_type": "separation",
+    "event_date": "2026-02-16",
+    "schemes_entitled": 4,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 4800
+  },
+  {
+    "event_type": "housing_cost",
+    "event_date": "2026-03-08",
+    "schemes_entitled": 4,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 49,
+    "annual_value_entitled": 24000
+  },
+  {
+    "event_type": "separation",
+    "event_date": "2026-01-05",
+    "schemes_entitled": 4,
+    "schemes_claimed": 4,
+    "days_to_first_claim": 14,
+    "annual_value_entitled": 24000
+  },
+  {
+    "event_type": "age_milestone",
+    "event_date": "2026-02-04",
+    "schemes_entitled": 3,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 27000
+  },
+  {
+    "event_type": "birth",
+    "event_date": "2025-09-01",
+    "schemes_entitled": 2,
+    "schemes_claimed": 2,
+    "days_to_first_claim": 40,
+    "annual_value_entitled": 2400
+  },
+  {
+    "event_type": "disability",
+    "event_date": "2026-04-09",
+    "schemes_entitled": 2,
+    "schemes_claimed": 2,
+    "days_to_first_claim": 116,
+    "annual_value_entitled": 2400
+  },
+  {
+    "event_type": "job_loss",
+    "event_date": "2025-11-14",
+    "schemes_entitled": 3,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 71,
+    "annual_value_entitled": 27000
+  },
+  {
+    "event_type": "age_milestone",
+    "event_date": "2025-11-18",
+    "schemes_entitled": 2,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 7600
+  },
+  {
+    "event_type": "birth",
+    "event_date": "2026-05-15",
+    "schemes_entitled": 4,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 9600
+  },
+  {
+    "event_type": "bereavement",
+    "event_date": "2025-08-30",
+    "schemes_entitled": 4,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 36000
+  },
+  {
+    "event_type": "housing_cost",
+    "event_date": "2026-05-04",
+    "schemes_entitled": 1,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 107,
+    "annual_value_entitled": 3800
+  },
+  {
+    "event_type": "caring",
+    "event_date": "2026-05-16",
+    "schemes_entitled": 4,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 71,
+    "annual_value_entitled": 4800
+  },
+  {
+    "event_type": "separation",
+    "event_date": "2025-10-16",
+    "schemes_entitled": 2,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 25,
+    "annual_value_entitled": 4800
+  },
+  {
+    "event_type": "age_milestone",
+    "event_date": "2026-02-20",
+    "schemes_entitled": 4,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 43,
+    "annual_value_entitled": 24000
+  },
+  {
+    "event_type": "caring",
+    "event_date": "2025-07-30",
+    "schemes_entitled": 2,
+    "schemes_claimed": 2,
+    "days_to_first_claim": 28,
+    "annual_value_entitled": 7600
+  },
+  {
+    "event_type": "housing_cost",
+    "event_date": "2025-12-13",
+    "schemes_entitled": 4,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 13,
+    "annual_value_entitled": 9600
+  },
+  {
+    "event_type": "job_loss",
+    "event_date": "2025-08-04",
+    "schemes_entitled": 4,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 170,
+    "annual_value_entitled": 15200
+  },
+  {
+    "event_type": "housing_cost",
+    "event_date": "2025-09-27",
+    "schemes_entitled": 2,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 12000
+  },
+  {
+    "event_type": "birth",
+    "event_date": "2025-09-04",
+    "schemes_entitled": 3,
+    "schemes_claimed": 2,
+    "days_to_first_claim": 43,
+    "annual_value_entitled": 11400
+  },
+  {
+    "event_type": "age_milestone",
+    "event_date": "2026-06-03",
+    "schemes_entitled": 3,
+    "schemes_claimed": 3,
+    "days_to_first_claim": 153,
+    "annual_value_entitled": 27000
+  },
+  {
+    "event_type": "disability",
+    "event_date": "2025-12-24",
+    "schemes_entitled": 4,
+    "schemes_claimed": 3,
+    "days_to_first_claim": 60,
+    "annual_value_entitled": 24000
+  },
+  {
+    "event_type": "disability",
+    "event_date": "2026-02-04",
+    "schemes_entitled": 4,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 24000
+  },
+  {
+    "event_type": "caring",
+    "event_date": "2026-02-09",
+    "schemes_entitled": 4,
+    "schemes_claimed": 4,
+    "days_to_first_claim": 66,
+    "annual_value_entitled": 9600
+  },
+  {
+    "event_type": "caring",
+    "event_date": "2026-05-14",
+    "schemes_entitled": 4,
+    "schemes_claimed": 4,
+    "days_to_first_claim": 128,
+    "annual_value_entitled": 4800
+  },
+  {
+    "event_type": "housing_cost",
+    "event_date": "2025-07-05",
+    "schemes_entitled": 2,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 14,
+    "annual_value_entitled": 12000
+  },
+  {
+    "event_type": "disability",
+    "event_date": "2026-02-08",
+    "schemes_entitled": 3,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 18000
+  },
+  {
+    "event_type": "age_milestone",
+    "event_date": "2026-01-16",
+    "schemes_entitled": 4,
+    "schemes_claimed": 4,
+    "days_to_first_claim": 11,
+    "annual_value_entitled": 9600
+  },
+  {
+    "event_type": "job_loss",
+    "event_date": "2026-03-08",
+    "schemes_entitled": 1,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 137,
+    "annual_value_entitled": 2400
+  },
+  {
+    "event_type": "housing_cost",
+    "event_date": "2025-11-06",
+    "schemes_entitled": 4,
+    "schemes_claimed": 2,
+    "days_to_first_claim": 14,
+    "annual_value_entitled": 36000
+  },
+  {
+    "event_type": "separation",
+    "event_date": "2026-01-19",
+    "schemes_entitled": 3,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 18000
+  },
+  {
+    "event_type": "birth",
+    "event_date": "2026-03-27",
+    "schemes_entitled": 2,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 12000
+  },
+  {
+    "event_type": "bereavement",
+    "event_date": "2026-05-06",
+    "schemes_entitled": 3,
+    "schemes_claimed": 3,
+    "days_to_first_claim": 163,
+    "annual_value_entitled": 3600
+  },
+  {
+    "event_type": "birth",
+    "event_date": "2026-04-19",
+    "schemes_entitled": 3,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 11400
+  },
+  {
+    "event_type": "bereavement",
+    "event_date": "2025-09-09",
+    "schemes_entitled": 2,
+    "schemes_claimed": 2,
+    "days_to_first_claim": 94,
+    "annual_value_entitled": 2400
+  },
+  {
+    "event_type": "housing_cost",
+    "event_date": "2025-08-30",
+    "schemes_entitled": 4,
+    "schemes_claimed": 3,
+    "days_to_first_claim": 85,
+    "annual_value_entitled": 15200
+  },
+  {
+    "event_type": "bereavement",
+    "event_date": "2026-01-21",
+    "schemes_entitled": 1,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 8,
+    "annual_value_entitled": 2400
+  },
+  {
+    "event_type": "caring",
+    "event_date": "2025-11-17",
+    "schemes_entitled": 2,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 18000
+  },
+  {
+    "event_type": "housing_cost",
+    "event_date": "2025-11-17",
+    "schemes_entitled": 1,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 28,
+    "annual_value_entitled": 2400
+  },
+  {
+    "event_type": "age_milestone",
+    "event_date": "2026-06-20",
+    "schemes_entitled": 4,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 15200
+  },
+  {
+    "event_type": "age_milestone",
+    "event_date": "2026-01-28",
+    "schemes_entitled": 1,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 29,
+    "annual_value_entitled": 9000
+  },
+  {
+    "event_type": "bereavement",
+    "event_date": "2026-02-07",
+    "schemes_entitled": 4,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 189,
+    "annual_value_entitled": 24000
+  },
+  {
+    "event_type": "bereavement",
+    "event_date": "2025-11-12",
+    "schemes_entitled": 3,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 3600
+  },
+  {
+    "event_type": "caring",
+    "event_date": "2025-07-28",
+    "schemes_entitled": 4,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 15200
+  },
+  {
+    "event_type": "housing_cost",
+    "event_date": "2025-11-17",
+    "schemes_entitled": 2,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 4800
+  },
+  {
+    "event_type": "birth",
+    "event_date": "2025-08-15",
+    "schemes_entitled": 1,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 27,
+    "annual_value_entitled": 6000
+  },
+  {
+    "event_type": "bereavement",
+    "event_date": "2025-08-20",
+    "schemes_entitled": 3,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 27000
+  },
+  {
+    "event_type": "age_milestone",
+    "event_date": "2026-06-16",
+    "schemes_entitled": 1,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 6000
+  },
+  {
+    "event_type": "caring",
+    "event_date": "2026-06-18",
+    "schemes_entitled": 1,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 3800
+  },
+  {
+    "event_type": "job_loss",
+    "event_date": "2025-11-04",
+    "schemes_entitled": 2,
+    "schemes_claimed": 2,
+    "days_to_first_claim": 130,
+    "annual_value_entitled": 12000
+  },
+  {
+    "event_type": "housing_cost",
+    "event_date": "2026-04-05",
+    "schemes_entitled": 2,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 18000
+  },
+  {
+    "event_type": "bereavement",
+    "event_date": "2025-09-16",
+    "schemes_entitled": 4,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 24000
+  },
+  {
+    "event_type": "job_loss",
+    "event_date": "2025-11-19",
+    "schemes_entitled": 3,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 99,
+    "annual_value_entitled": 3600
+  },
+  {
+    "event_type": "disability",
+    "event_date": "2025-09-27",
+    "schemes_entitled": 4,
+    "schemes_claimed": 4,
+    "days_to_first_claim": 54,
+    "annual_value_entitled": 36000
+  },
+  {
+    "event_type": "housing_cost",
+    "event_date": "2026-06-15",
+    "schemes_entitled": 4,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 97,
+    "annual_value_entitled": 15200
+  },
+  {
+    "event_type": "housing_cost",
+    "event_date": "2026-05-16",
+    "schemes_entitled": 3,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 7200
+  },
+  {
+    "event_type": "birth",
+    "event_date": "2026-01-13",
+    "schemes_entitled": 2,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 8,
+    "annual_value_entitled": 2400
+  },
+  {
+    "event_type": "housing_cost",
+    "event_date": "2026-02-26",
+    "schemes_entitled": 3,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 11400
+  },
+  {
+    "event_type": "separation",
+    "event_date": "2025-11-29",
+    "schemes_entitled": 4,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 36000
+  },
+  {
+    "event_type": "job_loss",
+    "event_date": "2026-04-06",
+    "schemes_entitled": 2,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 2400
+  },
+  {
+    "event_type": "age_milestone",
+    "event_date": "2025-07-07",
+    "schemes_entitled": 4,
+    "schemes_claimed": 3,
+    "days_to_first_claim": 14,
+    "annual_value_entitled": 15200
+  },
+  {
+    "event_type": "disability",
+    "event_date": "2026-03-21",
+    "schemes_entitled": 3,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 3600
+  },
+  {
+    "event_type": "disability",
+    "event_date": "2025-08-24",
+    "schemes_entitled": 4,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 15200
+  },
+  {
+    "event_type": "housing_cost",
+    "event_date": "2026-03-06",
+    "schemes_entitled": 4,
+    "schemes_claimed": 3,
+    "days_to_first_claim": 7,
+    "annual_value_entitled": 15200
+  },
+  {
+    "event_type": "housing_cost",
+    "event_date": "2025-08-03",
+    "schemes_entitled": 2,
+    "schemes_claimed": 2,
+    "days_to_first_claim": 83,
+    "annual_value_entitled": 2400
+  },
+  {
+    "event_type": "bereavement",
+    "event_date": "2025-07-13",
+    "schemes_entitled": 2,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 18000
+  },
+  {
+    "event_type": "birth",
+    "event_date": "2026-05-08",
+    "schemes_entitled": 3,
+    "schemes_claimed": 2,
+    "days_to_first_claim": 193,
+    "annual_value_entitled": 11400
+  },
+  {
+    "event_type": "bereavement",
+    "event_date": "2026-02-11",
+    "schemes_entitled": 3,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 18000
+  },
+  {
+    "event_type": "separation",
+    "event_date": "2026-01-13",
+    "schemes_entitled": 2,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 2400
+  },
+  {
+    "event_type": "bereavement",
+    "event_date": "2025-11-18",
+    "schemes_entitled": 4,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 24000
+  },
+  {
+    "event_type": "birth",
+    "event_date": "2026-03-22",
+    "schemes_entitled": 2,
+    "schemes_claimed": 2,
+    "days_to_first_claim": 144,
+    "annual_value_entitled": 4800
+  },
+  {
+    "event_type": "separation",
+    "event_date": "2025-09-22",
+    "schemes_entitled": 2,
+    "schemes_claimed": 2,
+    "days_to_first_claim": 18,
+    "annual_value_entitled": 7600
+  },
+  {
+    "event_type": "bereavement",
+    "event_date": "2025-10-10",
+    "schemes_entitled": 3,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 11400
+  },
+  {
+    "event_type": "separation",
+    "event_date": "2026-01-06",
+    "schemes_entitled": 3,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 11400
+  },
+  {
+    "event_type": "age_milestone",
+    "event_date": "2026-01-21",
+    "schemes_entitled": 4,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 24000
+  },
+  {
+    "event_type": "bereavement",
+    "event_date": "2026-01-15",
+    "schemes_entitled": 3,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 18000
+  },
+  {
+    "event_type": "housing_cost",
+    "event_date": "2026-03-07",
+    "schemes_entitled": 4,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 15200
+  },
+  {
+    "event_type": "separation",
+    "event_date": "2026-02-16",
+    "schemes_entitled": 3,
+    "schemes_claimed": 3,
+    "days_to_first_claim": 18,
+    "annual_value_entitled": 27000
+  },
+  {
+    "event_type": "separation",
+    "event_date": "2025-09-30",
+    "schemes_entitled": 1,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 2400
+  },
+  {
+    "event_type": "housing_cost",
+    "event_date": "2025-08-28",
+    "schemes_entitled": 3,
+    "schemes_claimed": 3,
+    "days_to_first_claim": 13,
+    "annual_value_entitled": 27000
+  },
+  {
+    "event_type": "disability",
+    "event_date": "2026-01-22",
+    "schemes_entitled": 3,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 124,
+    "annual_value_entitled": 18000
+  },
+  {
+    "event_type": "caring",
+    "event_date": "2026-06-25",
+    "schemes_entitled": 3,
+    "schemes_claimed": 2,
+    "days_to_first_claim": 23,
+    "annual_value_entitled": 3600
+  },
+  {
+    "event_type": "job_loss",
+    "event_date": "2025-11-07",
+    "schemes_entitled": 4,
+    "schemes_claimed": 3,
+    "days_to_first_claim": 69,
+    "annual_value_entitled": 15200
+  },
+  {
+    "event_type": "housing_cost",
+    "event_date": "2025-11-09",
+    "schemes_entitled": 1,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 1200
+  },
+  {
+    "event_type": "housing_cost",
+    "event_date": "2025-09-10",
+    "schemes_entitled": 2,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 69,
+    "annual_value_entitled": 18000
+  },
+  {
+    "event_type": "age_milestone",
+    "event_date": "2025-09-13",
+    "schemes_entitled": 2,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 67,
+    "annual_value_entitled": 7600
+  },
+  {
+    "event_type": "job_loss",
+    "event_date": "2026-03-17",
+    "schemes_entitled": 2,
+    "schemes_claimed": 2,
+    "days_to_first_claim": 173,
+    "annual_value_entitled": 18000
+  },
+  {
+    "event_type": "caring",
+    "event_date": "2026-03-01",
+    "schemes_entitled": 1,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 7,
+    "annual_value_entitled": 2400
+  },
+  {
+    "event_type": "disability",
+    "event_date": "2025-12-11",
+    "schemes_entitled": 4,
+    "schemes_claimed": 4,
+    "days_to_first_claim": 8,
+    "annual_value_entitled": 24000
+  },
+  {
+    "event_type": "bereavement",
+    "event_date": "2026-01-02",
+    "schemes_entitled": 4,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 93,
+    "annual_value_entitled": 24000
+  },
+  {
+    "event_type": "bereavement",
+    "event_date": "2026-02-28",
+    "schemes_entitled": 3,
+    "schemes_claimed": 2,
+    "days_to_first_claim": 54,
+    "annual_value_entitled": 27000
+  },
+  {
+    "event_type": "job_loss",
+    "event_date": "2026-04-22",
+    "schemes_entitled": 3,
+    "schemes_claimed": 2,
+    "days_to_first_claim": 53,
+    "annual_value_entitled": 27000
+  },
+  {
+    "event_type": "job_loss",
+    "event_date": "2025-07-29",
+    "schemes_entitled": 1,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 3800
+  },
+  {
+    "event_type": "age_milestone",
+    "event_date": "2025-09-30",
+    "schemes_entitled": 2,
+    "schemes_claimed": 2,
+    "days_to_first_claim": 100,
+    "annual_value_entitled": 12000
+  },
+  {
+    "event_type": "bereavement",
+    "event_date": "2025-07-01",
+    "schemes_entitled": 4,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 15200
+  },
+  {
+    "event_type": "separation",
+    "event_date": "2026-02-03",
+    "schemes_entitled": 2,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 18000
+  },
+  {
+    "event_type": "bereavement",
+    "event_date": "2026-05-02",
+    "schemes_entitled": 2,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 147,
+    "annual_value_entitled": 2400
+  },
+  {
+    "event_type": "caring",
+    "event_date": "2026-05-24",
+    "schemes_entitled": 4,
+    "schemes_claimed": 2,
+    "days_to_first_claim": 84,
+    "annual_value_entitled": 15200
+  },
+  {
+    "event_type": "disability",
+    "event_date": "2026-04-22",
+    "schemes_entitled": 3,
+    "schemes_claimed": 3,
+    "days_to_first_claim": 90,
+    "annual_value_entitled": 18000
+  },
+  {
+    "event_type": "disability",
+    "event_date": "2025-10-06",
+    "schemes_entitled": 1,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 174,
+    "annual_value_entitled": 6000
+  },
+  {
+    "event_type": "job_loss",
+    "event_date": "2026-06-17",
+    "schemes_entitled": 3,
+    "schemes_claimed": 3,
+    "days_to_first_claim": 25,
+    "annual_value_entitled": 7200
+  },
+  {
+    "event_type": "birth",
+    "event_date": "2025-11-27",
+    "schemes_entitled": 2,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 2400
+  },
+  {
+    "event_type": "separation",
+    "event_date": "2025-07-22",
+    "schemes_entitled": 1,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 6000
+  },
+  {
+    "event_type": "job_loss",
+    "event_date": "2025-09-18",
+    "schemes_entitled": 1,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 2400
+  },
+  {
+    "event_type": "separation",
+    "event_date": "2026-04-16",
+    "schemes_entitled": 1,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 3,
+    "annual_value_entitled": 3800
+  },
+  {
+    "event_type": "caring",
+    "event_date": "2025-09-07",
+    "schemes_entitled": 1,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 3800
+  },
+  {
+    "event_type": "housing_cost",
+    "event_date": "2025-09-20",
+    "schemes_entitled": 2,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 194,
+    "annual_value_entitled": 18000
+  },
+  {
+    "event_type": "disability",
+    "event_date": "2025-08-26",
+    "schemes_entitled": 3,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 18000
+  },
+  {
+    "event_type": "caring",
+    "event_date": "2026-03-23",
+    "schemes_entitled": 2,
+    "schemes_claimed": 2,
+    "days_to_first_claim": 51,
+    "annual_value_entitled": 4800
+  },
+  {
+    "event_type": "age_milestone",
+    "event_date": "2026-05-26",
+    "schemes_entitled": 3,
+    "schemes_claimed": 2,
+    "days_to_first_claim": 19,
+    "annual_value_entitled": 3600
+  },
+  {
+    "event_type": "age_milestone",
+    "event_date": "2025-08-05",
+    "schemes_entitled": 4,
+    "schemes_claimed": 2,
+    "days_to_first_claim": 56,
+    "annual_value_entitled": 15200
+  },
+  {
+    "event_type": "disability",
+    "event_date": "2025-07-08",
+    "schemes_entitled": 3,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 197,
+    "annual_value_entitled": 18000
+  },
+  {
+    "event_type": "caring",
+    "event_date": "2025-07-20",
+    "schemes_entitled": 1,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 9000
+  },
+  {
+    "event_type": "separation",
+    "event_date": "2025-09-02",
+    "schemes_entitled": 4,
+    "schemes_claimed": 2,
+    "days_to_first_claim": 62,
+    "annual_value_entitled": 24000
+  },
+  {
+    "event_type": "job_loss",
+    "event_date": "2025-09-07",
+    "schemes_entitled": 4,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 24000
+  },
+  {
+    "event_type": "housing_cost",
+    "event_date": "2026-06-03",
+    "schemes_entitled": 1,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 30,
+    "annual_value_entitled": 9000
+  },
+  {
+    "event_type": "disability",
+    "event_date": "2026-05-19",
+    "schemes_entitled": 1,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 1200
+  },
+  {
+    "event_type": "housing_cost",
+    "event_date": "2025-09-15",
+    "schemes_entitled": 3,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 30,
+    "annual_value_entitled": 7200
+  },
+  {
+    "event_type": "birth",
+    "event_date": "2025-08-25",
+    "schemes_entitled": 1,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 93,
+    "annual_value_entitled": 3800
+  },
+  {
+    "event_type": "age_milestone",
+    "event_date": "2026-05-20",
+    "schemes_entitled": 2,
+    "schemes_claimed": 2,
+    "days_to_first_claim": 108,
+    "annual_value_entitled": 7600
+  },
+  {
+    "event_type": "separation",
+    "event_date": "2025-10-04",
+    "schemes_entitled": 2,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 18000
+  },
+  {
+    "event_type": "birth",
+    "event_date": "2026-06-13",
+    "schemes_entitled": 4,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 16,
+    "annual_value_entitled": 24000
+  },
+  {
+    "event_type": "bereavement",
+    "event_date": "2026-01-26",
+    "schemes_entitled": 1,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 17,
+    "annual_value_entitled": 1200
+  },
+  {
+    "event_type": "age_milestone",
+    "event_date": "2026-05-25",
+    "schemes_entitled": 2,
+    "schemes_claimed": 2,
+    "days_to_first_claim": 174,
+    "annual_value_entitled": 12000
+  },
+  {
+    "event_type": "job_loss",
+    "event_date": "2025-07-23",
+    "schemes_entitled": 1,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 4,
+    "annual_value_entitled": 3800
+  },
+  {
+    "event_type": "housing_cost",
+    "event_date": "2025-08-14",
+    "schemes_entitled": 3,
+    "schemes_claimed": 2,
+    "days_to_first_claim": 17,
+    "annual_value_entitled": 27000
+  },
+  {
+    "event_type": "housing_cost",
+    "event_date": "2026-05-18",
+    "schemes_entitled": 4,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 4800
+  },
+  {
+    "event_type": "bereavement",
+    "event_date": "2025-07-23",
+    "schemes_entitled": 1,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 1200
+  },
+  {
+    "event_type": "disability",
+    "event_date": "2025-11-16",
+    "schemes_entitled": 1,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 1200
+  },
+  {
+    "event_type": "age_milestone",
+    "event_date": "2025-12-13",
+    "schemes_entitled": 3,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 11400
+  },
+  {
+    "event_type": "caring",
+    "event_date": "2026-05-28",
+    "schemes_entitled": 3,
+    "schemes_claimed": 2,
+    "days_to_first_claim": 3,
+    "annual_value_entitled": 3600
+  },
+  {
+    "event_type": "housing_cost",
+    "event_date": "2026-05-18",
+    "schemes_entitled": 3,
+    "schemes_claimed": 2,
+    "days_to_first_claim": 125,
+    "annual_value_entitled": 3600
+  },
+  {
+    "event_type": "housing_cost",
+    "event_date": "2025-07-11",
+    "schemes_entitled": 4,
+    "schemes_claimed": 4,
+    "days_to_first_claim": 51,
+    "annual_value_entitled": 9600
+  },
+  {
+    "event_type": "bereavement",
+    "event_date": "2025-07-14",
+    "schemes_entitled": 2,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 12000
+  },
+  {
+    "event_type": "age_milestone",
+    "event_date": "2025-10-07",
+    "schemes_entitled": 3,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 18000
+  },
+  {
+    "event_type": "caring",
+    "event_date": "2026-05-11",
+    "schemes_entitled": 2,
+    "schemes_claimed": 2,
+    "days_to_first_claim": 162,
+    "annual_value_entitled": 18000
+  },
+  {
+    "event_type": "birth",
+    "event_date": "2026-05-09",
+    "schemes_entitled": 3,
+    "schemes_claimed": 3,
+    "days_to_first_claim": 20,
+    "annual_value_entitled": 3600
+  },
+  {
+    "event_type": "birth",
+    "event_date": "2025-11-25",
+    "schemes_entitled": 4,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 147,
+    "annual_value_entitled": 4800
+  },
+  {
+    "event_type": "birth",
+    "event_date": "2025-09-21",
+    "schemes_entitled": 1,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 12,
+    "annual_value_entitled": 6000
+  },
+  {
+    "event_type": "bereavement",
+    "event_date": "2025-09-24",
+    "schemes_entitled": 4,
+    "schemes_claimed": 2,
+    "days_to_first_claim": 49,
+    "annual_value_entitled": 24000
+  },
+  {
+    "event_type": "housing_cost",
+    "event_date": "2025-07-11",
+    "schemes_entitled": 1,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 2400
+  },
+  {
+    "event_type": "housing_cost",
+    "event_date": "2025-12-09",
+    "schemes_entitled": 4,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 9600
+  },
+  {
+    "event_type": "bereavement",
+    "event_date": "2025-09-23",
+    "schemes_entitled": 3,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 82,
+    "annual_value_entitled": 27000
+  },
+  {
+    "event_type": "housing_cost",
+    "event_date": "2025-11-01",
+    "schemes_entitled": 3,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 27000
+  },
+  {
+    "event_type": "housing_cost",
+    "event_date": "2025-11-23",
+    "schemes_entitled": 4,
+    "schemes_claimed": 3,
+    "days_to_first_claim": 49,
+    "annual_value_entitled": 15200
+  },
+  {
+    "event_type": "job_loss",
+    "event_date": "2026-01-25",
+    "schemes_entitled": 3,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 11400
+  },
+  {
+    "event_type": "caring",
+    "event_date": "2025-12-10",
+    "schemes_entitled": 4,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 4800
+  },
+  {
+    "event_type": "age_milestone",
+    "event_date": "2025-11-29",
+    "schemes_entitled": 3,
+    "schemes_claimed": 3,
+    "days_to_first_claim": 73,
+    "annual_value_entitled": 3600
+  },
+  {
+    "event_type": "disability",
+    "event_date": "2025-09-01",
+    "schemes_entitled": 1,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 2400
+  },
+  {
+    "event_type": "birth",
+    "event_date": "2025-12-03",
+    "schemes_entitled": 4,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 103,
+    "annual_value_entitled": 36000
+  },
+  {
+    "event_type": "job_loss",
+    "event_date": "2026-02-04",
+    "schemes_entitled": 1,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 88,
+    "annual_value_entitled": 3800
+  },
+  {
+    "event_type": "bereavement",
+    "event_date": "2026-04-17",
+    "schemes_entitled": 2,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 4800
+  },
+  {
+    "event_type": "age_milestone",
+    "event_date": "2025-11-28",
+    "schemes_entitled": 1,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 3800
+  },
+  {
+    "event_type": "separation",
+    "event_date": "2026-02-01",
+    "schemes_entitled": 4,
+    "schemes_claimed": 2,
+    "days_to_first_claim": 3,
+    "annual_value_entitled": 24000
+  },
+  {
+    "event_type": "birth",
+    "event_date": "2025-09-30",
+    "schemes_entitled": 4,
+    "schemes_claimed": 2,
+    "days_to_first_claim": 195,
+    "annual_value_entitled": 15200
+  },
+  {
+    "event_type": "caring",
+    "event_date": "2025-11-26",
+    "schemes_entitled": 2,
+    "schemes_claimed": 2,
+    "days_to_first_claim": 156,
+    "annual_value_entitled": 7600
+  },
+  {
+    "event_type": "caring",
+    "event_date": "2025-09-12",
+    "schemes_entitled": 2,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 18000
+  },
+  {
+    "event_type": "caring",
+    "event_date": "2025-07-24",
+    "schemes_entitled": 3,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 165,
+    "annual_value_entitled": 7200
+  },
+  {
+    "event_type": "caring",
+    "event_date": "2025-08-21",
+    "schemes_entitled": 1,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 13,
+    "annual_value_entitled": 2400
+  },
+  {
+    "event_type": "housing_cost",
+    "event_date": "2026-06-13",
+    "schemes_entitled": 3,
+    "schemes_claimed": 2,
+    "days_to_first_claim": 30,
+    "annual_value_entitled": 11400
+  },
+  {
+    "event_type": "separation",
+    "event_date": "2025-12-16",
+    "schemes_entitled": 2,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 18000
+  },
+  {
+    "event_type": "job_loss",
+    "event_date": "2026-02-09",
+    "schemes_entitled": 2,
+    "schemes_claimed": 2,
+    "days_to_first_claim": 18,
+    "annual_value_entitled": 4800
+  },
+  {
+    "event_type": "separation",
+    "event_date": "2026-06-21",
+    "schemes_entitled": 2,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 18000
+  },
+  {
+    "event_type": "age_milestone",
+    "event_date": "2026-01-11",
+    "schemes_entitled": 4,
+    "schemes_claimed": 4,
+    "days_to_first_claim": 102,
+    "annual_value_entitled": 9600
+  },
+  {
+    "event_type": "bereavement",
+    "event_date": "2026-02-10",
+    "schemes_entitled": 3,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 11400
+  },
+  {
+    "event_type": "disability",
+    "event_date": "2025-08-06",
+    "schemes_entitled": 1,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 82,
+    "annual_value_entitled": 9000
+  },
+  {
+    "event_type": "disability",
+    "event_date": "2025-09-26",
+    "schemes_entitled": 3,
+    "schemes_claimed": 2,
+    "days_to_first_claim": 28,
+    "annual_value_entitled": 7200
+  },
+  {
+    "event_type": "separation",
+    "event_date": "2025-09-27",
+    "schemes_entitled": 4,
+    "schemes_claimed": 3,
+    "days_to_first_claim": 170,
+    "annual_value_entitled": 4800
+  },
+  {
+    "event_type": "separation",
+    "event_date": "2025-12-27",
+    "schemes_entitled": 1,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 24,
+    "annual_value_entitled": 6000
+  },
+  {
+    "event_type": "disability",
+    "event_date": "2025-08-05",
+    "schemes_entitled": 1,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 3800
+  },
+  {
+    "event_type": "disability",
+    "event_date": "2026-04-25",
+    "schemes_entitled": 4,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 9600
+  },
+  {
+    "event_type": "housing_cost",
+    "event_date": "2025-07-30",
+    "schemes_entitled": 3,
+    "schemes_claimed": 2,
+    "days_to_first_claim": 55,
+    "annual_value_entitled": 3600
+  },
+  {
+    "event_type": "separation",
+    "event_date": "2026-06-14",
+    "schemes_entitled": 3,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 11400
+  },
+  {
+    "event_type": "age_milestone",
+    "event_date": "2025-07-23",
+    "schemes_entitled": 2,
+    "schemes_claimed": 2,
+    "days_to_first_claim": 126,
+    "annual_value_entitled": 18000
+  },
+  {
+    "event_type": "disability",
+    "event_date": "2026-02-10",
+    "schemes_entitled": 3,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 104,
+    "annual_value_entitled": 27000
+  },
+  {
+    "event_type": "separation",
+    "event_date": "2026-06-04",
+    "schemes_entitled": 4,
+    "schemes_claimed": 4,
+    "days_to_first_claim": 199,
+    "annual_value_entitled": 15200
+  },
+  {
+    "event_type": "age_milestone",
+    "event_date": "2026-04-30",
+    "schemes_entitled": 3,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 125,
+    "annual_value_entitled": 3600
+  },
+  {
+    "event_type": "disability",
+    "event_date": "2025-10-14",
+    "schemes_entitled": 1,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 18,
+    "annual_value_entitled": 6000
+  },
+  {
+    "event_type": "caring",
+    "event_date": "2025-09-24",
+    "schemes_entitled": 1,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 147,
+    "annual_value_entitled": 1200
+  },
+  {
+    "event_type": "age_milestone",
+    "event_date": "2025-10-04",
+    "schemes_entitled": 1,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 169,
+    "annual_value_entitled": 3800
+  },
+  {
+    "event_type": "job_loss",
+    "event_date": "2026-06-26",
+    "schemes_entitled": 3,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 83,
+    "annual_value_entitled": 7200
+  },
+  {
+    "event_type": "job_loss",
+    "event_date": "2026-03-14",
+    "schemes_entitled": 2,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 2400
+  },
+  {
+    "event_type": "birth",
+    "event_date": "2025-11-07",
+    "schemes_entitled": 2,
+    "schemes_claimed": 2,
+    "days_to_first_claim": 46,
+    "annual_value_entitled": 7600
+  },
+  {
+    "event_type": "caring",
+    "event_date": "2025-12-06",
+    "schemes_entitled": 2,
+    "schemes_claimed": 2,
+    "days_to_first_claim": 39,
+    "annual_value_entitled": 2400
+  },
+  {
+    "event_type": "disability",
+    "event_date": "2025-10-12",
+    "schemes_entitled": 3,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 7200
+  },
+  {
+    "event_type": "age_milestone",
+    "event_date": "2026-06-24",
+    "schemes_entitled": 2,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 18000
+  },
+  {
+    "event_type": "housing_cost",
+    "event_date": "2025-09-09",
+    "schemes_entitled": 3,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 7200
+  },
+  {
+    "event_type": "housing_cost",
+    "event_date": "2025-09-14",
+    "schemes_entitled": 2,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 7600
+  },
+  {
+    "event_type": "age_milestone",
+    "event_date": "2026-01-28",
+    "schemes_entitled": 3,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 56,
+    "annual_value_entitled": 11400
+  },
+  {
+    "event_type": "caring",
+    "event_date": "2026-05-05",
+    "schemes_entitled": 2,
+    "schemes_claimed": 2,
+    "days_to_first_claim": 27,
+    "annual_value_entitled": 2400
+  },
+  {
+    "event_type": "age_milestone",
+    "event_date": "2025-08-04",
+    "schemes_entitled": 2,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 71,
+    "annual_value_entitled": 18000
+  },
+  {
+    "event_type": "housing_cost",
+    "event_date": "2026-05-22",
+    "schemes_entitled": 1,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 1200
+  },
+  {
+    "event_type": "separation",
+    "event_date": "2026-04-02",
+    "schemes_entitled": 3,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 11400
+  },
+  {
+    "event_type": "age_milestone",
+    "event_date": "2025-08-17",
+    "schemes_entitled": 4,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 49,
+    "annual_value_entitled": 15200
+  },
+  {
+    "event_type": "age_milestone",
+    "event_date": "2026-03-26",
+    "schemes_entitled": 1,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 3800
+  },
+  {
+    "event_type": "birth",
+    "event_date": "2026-03-29",
+    "schemes_entitled": 4,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 36000
+  },
+  {
+    "event_type": "job_loss",
+    "event_date": "2026-02-28",
+    "schemes_entitled": 4,
+    "schemes_claimed": 3,
+    "days_to_first_claim": 7,
+    "annual_value_entitled": 4800
+  },
+  {
+    "event_type": "disability",
+    "event_date": "2025-09-06",
+    "schemes_entitled": 4,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 4800
+  },
+  {
+    "event_type": "birth",
+    "event_date": "2025-08-21",
+    "schemes_entitled": 4,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 4800
+  },
+  {
+    "event_type": "age_milestone",
+    "event_date": "2026-02-06",
+    "schemes_entitled": 2,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 18,
+    "annual_value_entitled": 12000
+  },
+  {
+    "event_type": "caring",
+    "event_date": "2025-08-03",
+    "schemes_entitled": 1,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 9000
+  },
+  {
+    "event_type": "disability",
+    "event_date": "2026-02-01",
+    "schemes_entitled": 2,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 18000
+  },
+  {
+    "event_type": "age_milestone",
+    "event_date": "2026-04-29",
+    "schemes_entitled": 1,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 9000
+  },
+  {
+    "event_type": "birth",
+    "event_date": "2026-01-06",
+    "schemes_entitled": 3,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 148,
+    "annual_value_entitled": 3600
+  },
+  {
+    "event_type": "bereavement",
+    "event_date": "2025-08-17",
+    "schemes_entitled": 1,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 24,
+    "annual_value_entitled": 2400
+  },
+  {
+    "event_type": "housing_cost",
+    "event_date": "2025-08-24",
+    "schemes_entitled": 3,
+    "schemes_claimed": 3,
+    "days_to_first_claim": 123,
+    "annual_value_entitled": 27000
+  },
+  {
+    "event_type": "disability",
+    "event_date": "2025-09-16",
+    "schemes_entitled": 3,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 7200
+  },
+  {
+    "event_type": "caring",
+    "event_date": "2026-04-28",
+    "schemes_entitled": 3,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 27000
+  },
+  {
+    "event_type": "disability",
+    "event_date": "2025-12-22",
+    "schemes_entitled": 1,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 3,
+    "annual_value_entitled": 9000
+  },
+  {
+    "event_type": "caring",
+    "event_date": "2026-05-10",
+    "schemes_entitled": 1,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 3800
+  },
+  {
+    "event_type": "housing_cost",
+    "event_date": "2025-07-23",
+    "schemes_entitled": 1,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 146,
+    "annual_value_entitled": 1200
+  },
+  {
+    "event_type": "housing_cost",
+    "event_date": "2025-07-04",
+    "schemes_entitled": 1,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 91,
+    "annual_value_entitled": 6000
+  },
+  {
+    "event_type": "birth",
+    "event_date": "2026-06-16",
+    "schemes_entitled": 1,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 52,
+    "annual_value_entitled": 3800
+  },
+  {
+    "event_type": "separation",
+    "event_date": "2026-04-13",
+    "schemes_entitled": 4,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 15200
+  },
+  {
+    "event_type": "disability",
+    "event_date": "2026-01-22",
+    "schemes_entitled": 4,
+    "schemes_claimed": 2,
+    "days_to_first_claim": 112,
+    "annual_value_entitled": 36000
+  },
+  {
+    "event_type": "age_milestone",
+    "event_date": "2025-09-30",
+    "schemes_entitled": 1,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 2400
+  },
+  {
+    "event_type": "caring",
+    "event_date": "2025-08-25",
+    "schemes_entitled": 2,
+    "schemes_claimed": 2,
+    "days_to_first_claim": 65,
+    "annual_value_entitled": 2400
+  },
+  {
+    "event_type": "bereavement",
+    "event_date": "2026-05-21",
+    "schemes_entitled": 1,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 142,
+    "annual_value_entitled": 3800
+  },
+  {
+    "event_type": "disability",
+    "event_date": "2025-10-22",
+    "schemes_entitled": 3,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 3600
+  },
+  {
+    "event_type": "job_loss",
+    "event_date": "2026-05-21",
+    "schemes_entitled": 2,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 121,
+    "annual_value_entitled": 7600
+  },
+  {
+    "event_type": "bereavement",
+    "event_date": "2025-07-26",
+    "schemes_entitled": 1,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 2400
+  },
+  {
+    "event_type": "birth",
+    "event_date": "2025-12-17",
+    "schemes_entitled": 1,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 1200
+  },
+  {
+    "event_type": "separation",
+    "event_date": "2025-10-04",
+    "schemes_entitled": 3,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 3600
+  },
+  {
+    "event_type": "caring",
+    "event_date": "2026-05-31",
+    "schemes_entitled": 2,
+    "schemes_claimed": 2,
+    "days_to_first_claim": 48,
+    "annual_value_entitled": 7600
+  },
+  {
+    "event_type": "age_milestone",
+    "event_date": "2025-07-26",
+    "schemes_entitled": 2,
+    "schemes_claimed": 2,
+    "days_to_first_claim": 64,
+    "annual_value_entitled": 12000
+  },
+  {
+    "event_type": "disability",
+    "event_date": "2026-03-01",
+    "schemes_entitled": 1,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 6000
+  },
+  {
+    "event_type": "bereavement",
+    "event_date": "2025-10-03",
+    "schemes_entitled": 2,
+    "schemes_claimed": 2,
+    "days_to_first_claim": 80,
+    "annual_value_entitled": 12000
+  },
+  {
+    "event_type": "separation",
+    "event_date": "2026-02-02",
+    "schemes_entitled": 1,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 32,
+    "annual_value_entitled": 9000
+  },
+  {
+    "event_type": "job_loss",
+    "event_date": "2025-09-02",
+    "schemes_entitled": 4,
+    "schemes_claimed": 3,
+    "days_to_first_claim": 95,
+    "annual_value_entitled": 4800
+  },
+  {
+    "event_type": "birth",
+    "event_date": "2026-03-06",
+    "schemes_entitled": 2,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 7600
+  },
+  {
+    "event_type": "job_loss",
+    "event_date": "2025-09-13",
+    "schemes_entitled": 2,
+    "schemes_claimed": 2,
+    "days_to_first_claim": 10,
+    "annual_value_entitled": 7600
+  },
+  {
+    "event_type": "age_milestone",
+    "event_date": "2025-07-04",
+    "schemes_entitled": 3,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 3600
+  },
+  {
+    "event_type": "job_loss",
+    "event_date": "2025-11-27",
+    "schemes_entitled": 2,
+    "schemes_claimed": 2,
+    "days_to_first_claim": 15,
+    "annual_value_entitled": 4800
+  },
+  {
+    "event_type": "job_loss",
+    "event_date": "2026-05-29",
+    "schemes_entitled": 1,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 9000
+  },
+  {
+    "event_type": "separation",
+    "event_date": "2026-01-14",
+    "schemes_entitled": 2,
+    "schemes_claimed": 2,
+    "days_to_first_claim": 3,
+    "annual_value_entitled": 2400
+  },
+  {
+    "event_type": "bereavement",
+    "event_date": "2026-01-01",
+    "schemes_entitled": 1,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 6,
+    "annual_value_entitled": 9000
+  },
+  {
+    "event_type": "disability",
+    "event_date": "2026-03-17",
+    "schemes_entitled": 3,
+    "schemes_claimed": 2,
+    "days_to_first_claim": 33,
+    "annual_value_entitled": 3600
+  },
+  {
+    "event_type": "job_loss",
+    "event_date": "2025-07-13",
+    "schemes_entitled": 2,
+    "schemes_claimed": 2,
+    "days_to_first_claim": 121,
+    "annual_value_entitled": 18000
+  },
+  {
+    "event_type": "caring",
+    "event_date": "2026-02-14",
+    "schemes_entitled": 4,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 36000
+  },
+  {
+    "event_type": "disability",
+    "event_date": "2026-06-08",
+    "schemes_entitled": 3,
+    "schemes_claimed": 2,
+    "days_to_first_claim": 132,
+    "annual_value_entitled": 11400
+  },
+  {
+    "event_type": "age_milestone",
+    "event_date": "2025-11-07",
+    "schemes_entitled": 1,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 10,
+    "annual_value_entitled": 2400
+  },
+  {
+    "event_type": "separation",
+    "event_date": "2025-09-16",
+    "schemes_entitled": 4,
+    "schemes_claimed": 4,
+    "days_to_first_claim": 27,
+    "annual_value_entitled": 15200
+  },
+  {
+    "event_type": "housing_cost",
+    "event_date": "2026-01-06",
+    "schemes_entitled": 2,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 165,
+    "annual_value_entitled": 7600
+  },
+  {
+    "event_type": "job_loss",
+    "event_date": "2025-11-24",
+    "schemes_entitled": 4,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 36000
+  },
+  {
+    "event_type": "disability",
+    "event_date": "2025-11-18",
+    "schemes_entitled": 3,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 11400
+  },
+  {
+    "event_type": "birth",
+    "event_date": "2025-08-13",
+    "schemes_entitled": 3,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 70,
+    "annual_value_entitled": 7200
+  },
+  {
+    "event_type": "age_milestone",
+    "event_date": "2026-04-29",
+    "schemes_entitled": 3,
+    "schemes_claimed": 2,
+    "days_to_first_claim": 3,
+    "annual_value_entitled": 27000
+  },
+  {
+    "event_type": "caring",
+    "event_date": "2025-07-29",
+    "schemes_entitled": 3,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 103,
+    "annual_value_entitled": 3600
+  },
+  {
+    "event_type": "disability",
+    "event_date": "2025-12-22",
+    "schemes_entitled": 4,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 24000
+  },
+  {
+    "event_type": "job_loss",
+    "event_date": "2025-11-05",
+    "schemes_entitled": 3,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 3600
+  },
+  {
+    "event_type": "bereavement",
+    "event_date": "2026-04-02",
+    "schemes_entitled": 2,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 173,
+    "annual_value_entitled": 2400
+  },
+  {
+    "event_type": "caring",
+    "event_date": "2025-09-06",
+    "schemes_entitled": 3,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 18000
+  },
+  {
+    "event_type": "separation",
+    "event_date": "2026-05-16",
+    "schemes_entitled": 4,
+    "schemes_claimed": 4,
+    "days_to_first_claim": 29,
+    "annual_value_entitled": 4800
+  },
+  {
+    "event_type": "job_loss",
+    "event_date": "2025-10-02",
+    "schemes_entitled": 1,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 9000
+  },
+  {
+    "event_type": "bereavement",
+    "event_date": "2025-12-09",
+    "schemes_entitled": 2,
+    "schemes_claimed": 2,
+    "days_to_first_claim": 84,
+    "annual_value_entitled": 7600
+  },
+  {
+    "event_type": "birth",
+    "event_date": "2025-09-23",
+    "schemes_entitled": 4,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 36000
+  },
+  {
+    "event_type": "age_milestone",
+    "event_date": "2026-05-17",
+    "schemes_entitled": 1,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 161,
+    "annual_value_entitled": 2400
+  },
+  {
+    "event_type": "disability",
+    "event_date": "2025-09-23",
+    "schemes_entitled": 1,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 9000
+  },
+  {
+    "event_type": "age_milestone",
+    "event_date": "2025-11-05",
+    "schemes_entitled": 4,
+    "schemes_claimed": 2,
+    "days_to_first_claim": 5,
+    "annual_value_entitled": 4800
+  },
+  {
+    "event_type": "separation",
+    "event_date": "2026-03-23",
+    "schemes_entitled": 3,
+    "schemes_claimed": 2,
+    "days_to_first_claim": 196,
+    "annual_value_entitled": 27000
+  },
+  {
+    "event_type": "disability",
+    "event_date": "2025-08-10",
+    "schemes_entitled": 3,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 27000
+  },
+  {
+    "event_type": "caring",
+    "event_date": "2025-11-28",
+    "schemes_entitled": 1,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 14,
+    "annual_value_entitled": 3800
+  },
+  {
+    "event_type": "birth",
+    "event_date": "2026-02-05",
+    "schemes_entitled": 1,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 53,
+    "annual_value_entitled": 3800
+  },
+  {
+    "event_type": "bereavement",
+    "event_date": "2025-09-01",
+    "schemes_entitled": 3,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 128,
+    "annual_value_entitled": 11400
+  },
+  {
+    "event_type": "bereavement",
+    "event_date": "2025-11-22",
+    "schemes_entitled": 1,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 84,
+    "annual_value_entitled": 3800
+  },
+  {
+    "event_type": "birth",
+    "event_date": "2025-08-23",
+    "schemes_entitled": 4,
+    "schemes_claimed": 4,
+    "days_to_first_claim": 17,
+    "annual_value_entitled": 4800
+  },
+  {
+    "event_type": "caring",
+    "event_date": "2026-05-25",
+    "schemes_entitled": 2,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 2400
+  },
+  {
+    "event_type": "housing_cost",
+    "event_date": "2026-05-25",
+    "schemes_entitled": 4,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 36000
+  },
+  {
+    "event_type": "disability",
+    "event_date": "2025-12-22",
+    "schemes_entitled": 4,
+    "schemes_claimed": 0,
+    "days_to_first_claim": null,
+    "annual_value_entitled": 36000
+  },
+  {
+    "event_type": "housing_cost",
+    "event_date": "2025-11-17",
+    "schemes_entitled": 2,
+    "schemes_claimed": 1,
+    "days_to_first_claim": 5,
+    "annual_value_entitled": 12000
+  }
+]

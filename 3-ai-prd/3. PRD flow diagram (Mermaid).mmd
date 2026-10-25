@@ -1,0 +1,29 @@
+flowchart TD
+  A["Life event arrives<br/>registry, employer, hospital,<br/>caseworker note, citizen message"] --> B{"Source type?"}
+  B -- "Registry" --> C["Registry facts trusted as given"]
+  B -- "Free text" --> D["AI reads facts<br/>Groq model, Claude backup<br/>(or patterns offline)"]
+  D --> E{"Quote found verbatim<br/>in the source?"}
+  E -- "No" --> X["Fact dropped<br/>and logged"]
+  E -- "Yes" --> F["Fact kept with its quote"]
+  C --> G["Update household copy<br/>newer source wins, conflicts shown"]
+  F --> G
+  D -. "nothing readable" .-> U["Read now:<br/>a person reads it"]
+  G --> H["Rules engine decides<br/>deterministic code, cites clauses"]
+  H --> I{"Status per scheme"}
+  I -- "Eligible" --> J["Eligible list"]
+  I -- "Missing facts" --> K["Questions for the citizen"]
+  I -- "Discretionary" --> L["Route to caseworker<br/>(Disability, Hardship)"]
+  I -- "Not eligible" --> N["Not shown in outreach"]
+  J --> O{"Opted out of<br/>proactive contact?"}
+  O -- "Yes" --> P["No draft:<br/>standard notice only"]
+  O -- "No" --> Q["AI drafts message<br/>in citizen's language"]
+  Q --> R{"Safety checks<br/>amounts, schemes,<br/>no promises, no<br/>caseworker-only schemes"}
+  R -- "Fail" --> S["Draft withheld"]
+  R -- "Pass" --> T["Caseworker review<br/>edit (checks re-run), approve, reject"]
+  K --> T
+  L --> T
+  U --> T
+  S --> T
+  P --> T
+  T --> V["Audit log: who, when, what"]
+  V --> W["Send message and<br/>open pre-filled applications"]

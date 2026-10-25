@@ -1,0 +1,88 @@
+﻿Frame,Type,Title,Text,Color,Impact,Feasibility,Score,Quadrant
+1 Header,Sticky,Persona,"Priya Nair, senior caseworker, Aurelia Social Support Agency. 160 open cases; works an inbox of registry notices, hospital summaries, employer notices, phone notes and citizen messages.",yellow,,,,
+1 Header,Sticky,Root cause,"The agency learns about life events but has no step that turns an event into a checked, explained offer of help. Services wait for citizens to apply, and a full check across 12 schemes takes ~45 minutes, so it only happens when someone asks.",yellow,,,,
+1 Header,Sticky,Evidence,"History of 320 life events: 21% enrolled within 30 days; median 65 days to a first claim; 42% claimed nothing within a year; 41% of entitled schemes ever claimed. Today: $160,770/yr unclaimed across 50 of 141 households; 40 new events, 29 with unclaimed support worth $208,720/yr. 9 records have no income; 1 duplicate; 2 messages in Spanish.",yellow,,,,
+1 Header,Sticky,Goal,"Find where AI genuinely helps a caseworker turn life events into timely, correct, explained offers of support, score it, and scope a safe MVP for the PRD.",yellow,,,,
+2 Workflow,Sticky,S1 Event arrives | Today,"Registry feeds, employer notices, hospital summaries, caseworker notes, citizen messages land in separate systems.",gray,,,,
+2 Workflow,Sticky,S1 Event arrives | Pain,Same household's facts in 7 formats; free text; Spanish and Arabic messages; nothing flags them as life events.,red,,,,
+2 Workflow,Sticky,S1 Event arrives | AI opportunities,"O1, O2, O9",light_green,,,,
+2 Workflow,Sticky,S2 Understand the household | Today,"Caseworker opens the record and re-reads the source to find income, rent, partner, children.",gray,,,,
+2 Workflow,Sticky,S2 Understand the household | Pain,"Records stale (some 2.5 years old), 9 of 141 with no income, record values conflict with the new source, 1 duplicate person.",red,,,,
+2 Workflow,Sticky,S2 Understand the household | AI opportunities,"O1, O3, O10",light_green,,,,
+2 Workflow,Sticky,S3 Check entitlements | Today,"Caseworker checks thresholds in a personal spreadsheet, one scheme at a time, when a citizen asks.",gray,,,,
+2 Workflow,Sticky,S3 Check entitlements | Pain,"~45 minutes per full check across 12 schemes, so it isn't done for most events; easy to miss Winter Energy or School Meals.",red,,,,
+2 Workflow,Sticky,S3 Check entitlements | AI opportunities,"O4, O11",light_green,,,,
+2 Workflow,Sticky,S4 Reach the citizen | Today,Generic letter or 'go online and apply'; translation needs a colleague.,gray,,,,
+2 Workflow,Sticky,S4 Reach the citizen | Pain,Message doesn't say what they can get or why; non-English speakers drop off; risk of wrong amounts in hand-written letters.,red,,,,
+2 Workflow,Sticky,S4 Reach the citizen | AI opportunities,"O5, O12",light_green,,,,
+2 Workflow,Sticky,S5 Application | Today,"Citizen re-enters facts the agency already holds, finds documents, often stops halfway.",gray,,,,
+2 Workflow,Sticky,S5 Application | Pain,Same facts asked again per scheme; missing documents stall claims for weeks.,red,,,,
+2 Workflow,Sticky,S5 Application | AI opportunities,O6,light_green,,,,
+2 Workflow,Sticky,S6 Decide and pay | Today,Caseworker or assessor decides; discretionary schemes need judgement.,gray,,,,
+2 Workflow,Sticky,S6 Decide and pay | Pain,"Disability and hardship cases need a person; crises (eviction, power cut) buried in the inbox.",red,,,,
+2 Workflow,Sticky,S6 Decide and pay | AI opportunities,"O7, O13",light_green,,,,
+2 Workflow,Sticky,S7 Track and learn | Today,"Monthly reporting on claims, not on take-up after events.",gray,,,,
+2 Workflow,Sticky,S7 Track and learn | Pain,"No one measures how many eligible households got support, or how fast.",red,,,,
+2 Workflow,Sticky,S7 Track and learn | AI opportunities,O8,light_green,,,,
+3 Opportunities,Card,O1 Read facts from any source,"Pull household facts (job end date, income, rent, partner status, care hours, crisis) from free-text sources in any language, each with a verbatim quote. Why AI: Structured extraction from messy multilingual text is a core LLM strength and every fact can be checked against its quote. Evidence: 40 events in 7 formats; 2 Spanish messages Stage: S1-S2",blue,5,5,25,Do first (MVP)
+3 Opportunities,Card,O2 Life-event triage queue,"Rank today's events: crisis first, then unreadable messages, then value of unclaimed support. Why AI: Ranking is transparent rules over O1 + O4 output; AI only supplies the crisis flag. Evidence: 1 eviction + power cut buried among 40 events Stage: S1",blue,4,5,20,Do first (MVP)
+3 Opportunities,Card,O3 Record update with conflicts shown,"Apply new facts to a copy of the record, newest source wins, and show what changed (record $47,000 vs source $33,000). Why AI: Uses O1 facts; the logic is code. Evidence: stale records, 9 with no income Stage: S2",blue,4,5,20,Do first (MVP)
+3 Opportunities,Card,"O4 Full entitlement check, every scheme","Check all 12 schemes on every event and cite the clause for each pass, fail or missing fact. Why AI: Deliberately NOT AI: eligibility is law, so it is deterministic code. AI feeds it facts. Evidence: 45-minute manual check; 41% take-up of entitlements Stage: S3",blue,5,5,25,Do first (MVP)
+3 Opportunities,Card,O5 Plain-language outreach in the citizen's language,"Draft a warm, short message listing what they may get and what to send, in their language, using only amounts from the rules. Why AI: LLM drafting and translation are mature; the risk is invented amounts, so a safety check withholds any unsupported figure. Evidence: 7 languages on the caseload; 68 of 141 prefer a language other than English; generic letters Stage: S4",blue,5,4,20,Do first (MVP)
+3 Opportunities,Card,O6 Pre-filled applications,"Fill each scheme's application from the record and the event, listing only the documents still needed. Why AI: Mostly data mapping; low AI risk, high time saving. Evidence: citizens re-enter known facts per scheme Stage: S5",blue,4,4,16,Do first (MVP)
+3 Opportunities,Card,O7 Route to a caseworker,"Send discretionary schemes (Disability Support, Hardship Grant) to a person with the reason, never as 'eligible'. Why AI: AI detects the crisis or medical signal; the decision stays human. Evidence: eviction, power cut, stroke discharges Stage: S6",blue,4,5,20,Do first (MVP)
+3 Opportunities,Card,O8 Take-up gap and North Star dashboard,Show unclaimed support by scheme and enrolment within 30 days of an event. Why AI: Reporting over rule outputs; little AI. Evidence: nobody measures take-up after events Stage: S7,blue,3,5,15,Quick add-on
+3 Opportunities,Card,O9 Detect events from bank or tax data,Infer job loss or hardship from income drops in tax or bank feeds. Why AI: Powerful but needs data-sharing law and consent the agency doesn't have; surveillance risk. Evidence: none in dataset Stage: S1,blue,4,2,8,Park / avoid
+3 Opportunities,Card,O10 Auto-merge duplicate records,"Merge records that look like the same person. Why AI: Fuzzy matching works, but a wrong merge mixes two people's benefits. Flag, don't merge. Evidence: 1 duplicate (same name and birth date) Stage: S2",blue,3,3,9,Plan next
+3 Opportunities,Card,O11 Auto-award eligible benefits,"Pay benefits automatically when the rules say eligible. Why AI: Technically simple, but legally a decision needs a person today, and stale records make silent awards risky. Evidence: the new source contradicts the record in 17 of 40 events Stage: S3",blue,4,2,8,Park / avoid
+3 Opportunities,Card,O12 Auto-send outreach,Send messages to citizens without review. Why AI: One wrong amount or a message to someone who opted out damages trust in the agency. Evidence: 1 person opted out of contact Stage: S4,blue,3,2,6,Park / avoid
+3 Opportunities,Card,O13 Citizen chatbot for eligibility,"A public chatbot that answers 'what can I get?'. Why AI: Useful later, but it is still 'pull'; the root cause is the agency not acting on what it knows. Evidence: root cause is no proactive step Stage: S4",blue,3,3,9,Plan next
+3 Opportunities,Card,O14 Fraud risk scoring,"Score citizens for fraud risk while checking eligibility. Why AI: Mixes help with suspicion, high bias risk, and not the problem we found. Evidence: none Stage: S6",blue,2,2,4,Park / avoid
+4 Scoring,Sticky,Scoring rubric,Impact (1-5): households and money affected + how often it happens + strength of dataset evidence. Feasibility (1-5): data available in the dataset + maturity of the AI technique + cost of being wrong + prototype effort. Score = Impact x Feasibility (max 25). Do first = Impact >= 4 and Feasibility >= 4.,yellow,,,,
+5 Impact x Feasibility 2x2,Sticky,O1 Read facts from any source,I5 x F5 = 25,green,5,5,25,Do first (MVP)
+5 Impact x Feasibility 2x2,Sticky,"O4 Full entitlement check, every scheme",I5 x F5 = 25,green,5,5,25,Do first (MVP)
+5 Impact x Feasibility 2x2,Sticky,O2 Life-event triage queue,I4 x F5 = 20,green,4,5,20,Do first (MVP)
+5 Impact x Feasibility 2x2,Sticky,O3 Record update with conflicts shown,I4 x F5 = 20,green,4,5,20,Do first (MVP)
+5 Impact x Feasibility 2x2,Sticky,O5 Plain-language outreach in the citizen's language,I5 x F4 = 20,green,5,4,20,Do first (MVP)
+5 Impact x Feasibility 2x2,Sticky,O7 Route to a caseworker,I4 x F5 = 20,green,4,5,20,Do first (MVP)
+5 Impact x Feasibility 2x2,Sticky,O6 Pre-filled applications,I4 x F4 = 16,green,4,4,16,Do first (MVP)
+5 Impact x Feasibility 2x2,Sticky,O8 Take-up gap and North Star dashboard,I3 x F5 = 15,light_blue,3,5,15,Quick add-on
+5 Impact x Feasibility 2x2,Sticky,O10 Auto-merge duplicate records,I3 x F3 = 9,yellow,3,3,9,Plan next
+5 Impact x Feasibility 2x2,Sticky,O13 Citizen chatbot for eligibility,I3 x F3 = 9,yellow,3,3,9,Plan next
+5 Impact x Feasibility 2x2,Sticky,O9 Detect events from bank or tax data,I4 x F2 = 8,gray,4,2,8,Park / avoid
+5 Impact x Feasibility 2x2,Sticky,O11 Auto-award eligible benefits,I4 x F2 = 8,gray,4,2,8,Park / avoid
+5 Impact x Feasibility 2x2,Sticky,O12 Auto-send outreach,I3 x F2 = 6,gray,3,2,6,Park / avoid
+5 Impact x Feasibility 2x2,Sticky,O14 Fraud risk scoring,I2 x F2 = 4,gray,2,2,4,Park / avoid
+6 Should / Should NOT,Sticky,Should do,"Read every life-event source the agency already receives, in any language, and nothing else.",green,,,,
+6 Should / Should NOT,Sticky,Should do,Pull out facts with the exact quote they came from; drop any fact without one.,green,,,,
+6 Should / Should NOT,Sticky,Should do,Check all 12 schemes on every event and cite the clause behind each result.,green,,,,
+6 Should / Should NOT,Sticky,Should do,"Ask the citizen for a missing fact (income, savings, childcare fees) instead of guessing.",green,,,,
+6 Should / Should NOT,Sticky,Should do,Draft plain-language outreach in the citizen's language and pre-fill applications for approval.,green,,,,
+6 Should / Should NOT,Sticky,Should do,Put crises and unreadable messages at the top of the queue for a person.,green,,,,
+6 Should / Should NOT,Sticky,Should do,Show where the record and the new source disagree.,green,,,,
+6 Should / Should NOT,Sticky,Should NOT do,"Decide eligibility: the rules engine does, from law, in code.",red,,,,
+6 Should / Should NOT,Sticky,Should NOT do,"Award, pay or refuse any benefit.",red,,,,
+6 Should / Should NOT,Sticky,Should NOT do,Send any message to a citizen without a caseworker's approval.,red,,,,
+6 Should / Should NOT,Sticky,Should NOT do,Contact anyone who opted out of proactive contact.,red,,,,
+6 Should / Should NOT,Sticky,Should NOT do,Mark Disability Support or Hardship Grant as eligible; they always go to a person.,red,,,,
+6 Should / Should NOT,Sticky,Should NOT do,"Use gender, ethnicity, religion or nationality, or score people for fraud.",red,,,,
+6 Should / Should NOT,Sticky,Should NOT do,"Pull data from bank, tax or social media sources it has no legal basis to use.",red,,,,
+6 Should / Should NOT,Sticky,Should NOT do,Merge or change the master record on its own.,red,,,,
+7 Feature to AI to Guardrails,Table row,F1 Read the event,"From: O1, O2 | AI capability: Structured extraction to a fixed schema (14 fields) with verbatim quotes; multilingual | Inputs: Event source text + registry fields | Output: Facts with quote and confidence; crisis flag; 'unclear' list | Guardrails: No quote, no fact (quote must be found in the source); registry fields trusted as given; free-text source with no facts goes to 'Read now'. | Human in loop: Caseworker sees each quote highlighted in the source | Test: Fact recall >= 90% on 79 labelled facts; 0 facts without a verified quote",violet,,,,
+7 Feature to AI to Guardrails,Table row,F2 Check every scheme,"From: O3, O4, O7 | AI capability: None (deterministic rules engine), fed by F1 | Inputs: Record + F1 facts | Output: Per scheme: Eligible / Needs info / Caseworker decides, with clause citations, amount and missing facts | Guardrails: Eligibility only from code; missing fact = question, never a guess; discretionary schemes never 'eligible'; conflicts with the record shown. | Human in loop: Caseworker ticks which applications to open | Test: Precision >= 95% and recall >= 90% vs independent labels on 40 events; 0 caseworker-only schemes marked eligible",violet,,,,
+7 Feature to AI to Guardrails,Table row,F3 Draft the outreach,"From: O5 | AI capability: Grounded generation and translation from a JSON of rule results | Inputs: Eligible and needs-info schemes, amounts, documents, questions, language | Output: Short message in the citizen's language | Guardrails: Safety check withholds drafts with any amount not from the rules, other schemes, promises, or caseworker-only schemes; no draft for opted-out people; checks re-run on every edit. | Human in loop: Caseworker edits and approves; nothing is sent automatically | Test: 100% of offline drafts pass; 4 of 4 red-team drafts blocked",violet,,,,
+7 Feature to AI to Guardrails,Table row,F4 Pre-fill and log,"From: O6, O8 | AI capability: Data mapping (no model) | Inputs: Record, facts, chosen schemes | Output: Pre-filled applications; audit entry; take-up dashboard | Guardrails: Only documents still needed are requested; every approval and rejection logged with who and when. | Human in loop: Citizen confirms the application | Test: Every approval produces a log entry",violet,,,,
+7 Feature to AI to Guardrails,Table row,Next (post-MVP),"From: O10, O13 | AI capability: Duplicate detection; citizen-facing assistant on the same rules | Inputs: Records; citizen questions | Output: Merge suggestions; answers with clause citations | Guardrails: Same as F2/F3 | Human in loop: Records officer approves merges | Test: After MVP proves extraction quality",violet,,,,
+8 Guardrails & risks,Sticky,Global guardrail,The AI reads and writes; the rules decide; a person approves.,orange,,,,
+8 Guardrails & risks,Sticky,Global guardrail,Grounded only: every fact quotes its source; every amount comes from the rules.,orange,,,,
+8 Guardrails & risks,Sticky,Global guardrail,Uncertainty is visible: missing facts become questions; unreadable messages go to a person.,orange,,,,
+8 Guardrails & risks,Sticky,Global guardrail,Least data: only sources the agency already receives; no protected characteristics in context; no training on citizen data.,orange,,,,
+8 Guardrails & risks,Sticky,Global guardrail,Consent: no proactive contact for people who opted out.,orange,,,,
+8 Guardrails & risks,Sticky,Global guardrail,"Audit trail: every suggestion, approval and rejection logged with who and when.",orange,,,,
+8 Guardrails & risks,Sticky,Risk: A wrong amount reaches a citizen,Mitigation: Safety check on every draft and every edit; withheld drafts can't be approved,orange,,,,
+8 Guardrails & risks,Sticky,Risk: A crisis is missed,Mitigation: Crisis flag ranks it first; unreadable messages ranked 'Read now'; eval: 0 silent misses,orange,,,,
+8 Guardrails & risks,Sticky,Risk: Stale record gives a wrong result,Mitigation: Newer source wins and the conflict is shown; caseworker confirms with the citizen,orange,,,,
+8 Guardrails & risks,Sticky,Risk: Bias against some groups,Mitigation: Protected characteristics excluded; rules are law in code; monitor take-up by region and language,orange,,,,
+8 Guardrails & risks,Sticky,Risk: Caseworkers rubber-stamp,Mitigation: Clauses and quotes on screen; track edit and rejection rates; spot-check 5% of approvals,orange,,,,
+8 Guardrails & risks,Sticky,Risk: Citizens feel watched,Mitigation: Only events the agency already receives; clear opt-out; message explains why we're writing,orange,,,,
+9 Hand-off,Sticky,Step 3 PRD,"North Star = eligible households enrolled within 30 days of a life event (21% today, 60% target at full rollout). Supporting: minutes per review (45 to 10), suggestion approval rate (85%+), entitlement precision (95%+) and recall (90%+), fact recall (90%+), 0 unsupported amounts sent, 0 messages to opted-out people.",yellow,,,,
